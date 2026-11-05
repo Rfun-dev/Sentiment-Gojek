@@ -1,0 +1,8 @@
+# Instal PyTorch (versi GPU) lebih dulu:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+transformers
+pandas
+scikit-learn
+google-play-scraper
+requests
+tqdm

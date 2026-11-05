@@ -1,0 +1,21 @@
+{
+  "minority_label": 1,
+  "majority_label": 0,
+  "minority_removed_from_train": 1251,
+  "train_baseline": {
+    "0": 5543,
+    "1": 1847
+  },
+  "train_augmented": {
+    "0": 5543,
+    "1": 5543
+  },
+  "val": {
+    "0": 606,
+    "1": 363
+  },
+  "test": {
+    "0": 1556,
+    "1": 840
+  }
+}

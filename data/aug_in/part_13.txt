@@ -1,0 +1,11 @@
+0	pakai gaya santai/informal pengguna biasa	siplach pokok e
+1	ringkas tapi tetap jelas	cepat dan amanah
+2	tambahkan sedikit detail situasi yang masuk akal	bagus sekali aplikasi nya
+3	ubah susunan kalimat dan pilihan kata	amanah dan ramah
+4	pakai gaya santai/informal pengguna biasa	drivernya baik sopan jaga penumpang
+5	ringkas tapi tetap jelas	tetima kasih atas semua apresiasi yang sudah diberikan
+6	tambahkan sedikit detail situasi yang masuk akal	alhamdulilah driver nya amanah
+7	ubah susunan kalimat dan pilihan kata	terimakasih tepat waktu
+8	pakai gaya santai/informal pengguna biasa	mudah dan terpercaya
+9	ringkas tapi tetap jelas	cepat sampai dan drivernya nyaman
+10	tambahkan sedikit detail situasi yang masuk akal	ongkos murah dan banyak bonusnya

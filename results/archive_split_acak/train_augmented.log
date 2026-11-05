@@ -1,0 +1,78 @@
+Mode: augmented | device: cuda (NVIDIA GeForce GTX 1650 Ti)
+[transformers] You passed `num_labels=2` which is incompatible to the `id2label` map of length `5`.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 23140.83it/s]
+[transformers] [1mBertForSequenceClassification LOAD REPORT[0m from: indobenchmark/indobert-base-p1
+Key               | Status  | 
+------------------+---------+-
+classifier.weight | MISSING | 
+classifier.bias   | MISSING | 
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+  [  2.4%] epoch 1/3 step 100/1387 | loss 0.6105 | berjalan 2m 31d | sisa ~1j 42m 37d
+  [  4.8%] epoch 1/3 step 200/1387 | loss 0.3907 | berjalan 4m 42d | sisa ~1j 33m 06d
+  [  7.2%] epoch 1/3 step 300/1387 | loss 0.2908 | berjalan 6m 48d | sisa ~1j 27m 37d
+  [  9.6%] epoch 1/3 step 400/1387 | loss 0.2410 | berjalan 8m 47d | sisa ~1j 22m 37d
+  [ 12.0%] epoch 1/3 step 500/1387 | loss 0.2121 | berjalan 10m 44d | sisa ~1j 18m 40d
+  [ 14.4%] epoch 1/3 step 600/1387 | loss 0.1881 | berjalan 12m 50d | sisa ~1j 16m 15d
+  [ 16.8%] epoch 1/3 step 700/1387 | loss 0.1713 | berjalan 14m 46d | sisa ~1j 13m 04d
+  [ 19.2%] epoch 1/3 step 800/1387 | loss 0.1566 | berjalan 16m 47d | sisa ~1j 10m 32d
+  [ 21.6%] epoch 1/3 step 900/1387 | loss 0.1438 | berjalan 18m 41d | sisa ~1j 07m 42d
+  [ 24.0%] epoch 1/3 step 1000/1387 | loss 0.1369 | berjalan 20m 38d | sisa ~1j 05m 15d
+  [ 26.4%] epoch 1/3 step 1100/1387 | loss 0.1302 | berjalan 22m 29d | sisa ~1j 02m 36d
+  [ 28.8%] epoch 1/3 step 1200/1387 | loss 0.1254 | berjalan 24m 24d | sisa ~1j 00m 12d
+  [ 31.2%] epoch 1/3 step 1300/1387 | loss 0.1187 | berjalan 26m 17d | sisa ~57m 51d
+  [ 33.3%] epoch 1/3 step 1387/1387 | loss 0.1156 | berjalan 28m 00d | sisa ~56m 00d
+Epoch 1: train loss 0.1156 | val loss 0.0699 | val acc 0.9865 | val F1 0.9853
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.15it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.15it/s]
+  [ 35.7%] epoch 2/3 step 100/1387 | loss 0.0137 | berjalan 30m 56d | sisa ~55m 39d
+  [ 38.1%] epoch 2/3 step 200/1387 | loss 0.0211 | berjalan 32m 57d | sisa ~53m 26d
+  [ 40.5%] epoch 2/3 step 300/1387 | loss 0.0207 | berjalan 34m 48d | sisa ~51m 02d
+  [ 42.9%] epoch 2/3 step 400/1387 | loss 0.0198 | berjalan 36m 36d | sisa ~48m 38d
+  [ 45.3%] epoch 2/3 step 500/1387 | loss 0.0212 | berjalan 38m 32d | sisa ~46m 26d
+  [ 47.8%] epoch 2/3 step 600/1387 | loss 0.0218 | berjalan 40m 27d | sisa ~44m 15d
+  [ 50.2%] epoch 2/3 step 700/1387 | loss 0.0212 | berjalan 42m 26d | sisa ~42m 10d
+  [ 52.6%] epoch 2/3 step 800/1387 | loss 0.0198 | berjalan 44m 15d | sisa ~39m 56d
+  [ 55.0%] epoch 2/3 step 900/1387 | loss 0.0220 | berjalan 46m 11d | sisa ~37m 51d
+  [ 57.4%] epoch 2/3 step 1000/1387 | loss 0.0223 | berjalan 48m 11d | sisa ~35m 48d
+  [ 59.8%] epoch 2/3 step 1100/1387 | loss 0.0240 | berjalan 50m 07d | sisa ~33m 44d
+  [ 62.2%] epoch 2/3 step 1200/1387 | loss 0.0261 | berjalan 52m 09d | sisa ~31m 43d
+  [ 64.6%] epoch 2/3 step 1300/1387 | loss 0.0252 | berjalan 54m 11d | sisa ~29m 43d
+  [ 66.7%] epoch 2/3 step 1387/1387 | loss 0.0242 | berjalan 55m 50d | sisa ~27m 55d
+Epoch 2: train loss 0.0242 | val loss 0.0815 | val acc 0.9865 | val F1 0.9853
+Early stopping.
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights:   1%|▏         | 3/201 [00:00<00:07, 27.30it/s]Loading weights:   3%|▎         | 6/201 [00:00<00:08, 21.70it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 639.83it/s]
+{
+  "mode": "augmented",
+  "train_size": 11094,
+  "accuracy": 0.9870940882597835,
+  "macro": {
+    "precision": 0.9858415090130321,
+    "recall": 0.9860910023225651,
+    "f1": 0.9859660378190609
+  },
+  "per_class": {
+    "negatif": {
+      "precision": 0.9902660609993511,
+      "recall": 0.9896238651102465,
+      "f1": 0.9899448589036652,
+      "support": 1542
+    },
+    "positif": {
+      "precision": 0.9814169570267132,
+      "recall": 0.9825581395348837,
+      "f1": 0.9819872167344567,
+      "support": 860
+    }
+  },
+  "confusion_matrix [[TN,FP],[FN,TP]]": [
+    [
+      1526,
+      16
+    ],
+    [
+      15,
+      845
+    ]
+  ]
+}

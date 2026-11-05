@@ -1,0 +1,95 @@
+Mode: augmented | seed: 2 | device: cuda (NVIDIA GeForce GTX 1650 Ti)
+[transformers] You passed `num_labels=2` which is incompatible to the `id2label` map of length `5`.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 18729.19it/s]
+[transformers] [1mBertForSequenceClassification LOAD REPORT[0m from: indobenchmark/indobert-base-p1
+Key               | Status  | 
+------------------+---------+-
+classifier.bias   | MISSING | 
+classifier.weight | MISSING | 
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+  [  2.4%] epoch 1/3 step 100/1386 | loss 0.5475 | berjalan 2m 02d | sisa ~1j 23m 08d
+  [  4.8%] epoch 1/3 step 200/1386 | loss 0.3530 | berjalan 3m 51d | sisa ~1j 16m 30d
+  [  7.2%] epoch 1/3 step 300/1386 | loss 0.2607 | berjalan 5m 53d | sisa ~1j 15m 45d
+  [  9.6%] epoch 1/3 step 400/1386 | loss 0.2086 | berjalan 7m 32d | sisa ~1j 10m 48d
+  [ 12.0%] epoch 1/3 step 500/1386 | loss 0.1853 | berjalan 9m 16d | sisa ~1j 07m 53d
+  [ 14.4%] epoch 1/3 step 600/1386 | loss 0.1686 | berjalan 10m 50d | sisa ~1j 04m 19d
+  [ 16.8%] epoch 1/3 step 700/1386 | loss 0.1536 | berjalan 12m 31d | sisa ~1j 01m 53d
+  [ 19.2%] epoch 1/3 step 800/1386 | loss 0.1469 | berjalan 14m 33d | sisa ~1j 01m 05d
+  [ 21.6%] epoch 1/3 step 900/1386 | loss 0.1385 | berjalan 16m 49d | sisa ~1j 00m 55d
+  [ 24.1%] epoch 1/3 step 1000/1386 | loss 0.1309 | berjalan 18m 57d | sisa ~59m 52d
+  [ 26.5%] epoch 1/3 step 1100/1386 | loss 0.1281 | berjalan 21m 14d | sisa ~59m 03d
+  [ 28.9%] epoch 1/3 step 1200/1386 | loss 0.1218 | berjalan 23m 23d | sisa ~57m 39d
+  [ 31.3%] epoch 1/3 step 1300/1386 | loss 0.1146 | berjalan 25m 32d | sisa ~56m 09d
+  [ 33.3%] epoch 1/3 step 1386/1386 | loss 0.1095 | berjalan 27m 13d | sisa ~54m 26d
+Epoch 1: train loss 0.1095 | val loss 0.0476 | val acc 0.9886 | val F1 0.9878
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.25it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.25it/s]
+  [ 35.7%] epoch 2/3 step 100/1386 | loss 0.0131 | berjalan 29m 51d | sisa ~53m 41d
+  [ 38.1%] epoch 2/3 step 200/1386 | loss 0.0211 | berjalan 31m 29d | sisa ~51m 04d
+  [ 40.5%] epoch 2/3 step 300/1386 | loss 0.0205 | berjalan 33m 10d | sisa ~48m 39d
+  [ 43.0%] epoch 2/3 step 400/1386 | loss 0.0217 | berjalan 35m 09d | sisa ~46m 41d
+  [ 45.4%] epoch 2/3 step 500/1386 | loss 0.0213 | berjalan 36m 43d | sisa ~44m 14d
+  [ 47.8%] epoch 2/3 step 600/1386 | loss 0.0238 | berjalan 38m 14d | sisa ~41m 49d
+  [ 50.2%] epoch 2/3 step 700/1386 | loss 0.0253 | berjalan 39m 57d | sisa ~39m 41d
+  [ 52.6%] epoch 2/3 step 800/1386 | loss 0.0241 | berjalan 41m 30d | sisa ~37m 26d
+  [ 55.0%] epoch 2/3 step 900/1386 | loss 0.0260 | berjalan 43m 03d | sisa ~35m 16d
+  [ 57.4%] epoch 2/3 step 1000/1386 | loss 0.0255 | berjalan 44m 42d | sisa ~33m 12d
+  [ 59.8%] epoch 2/3 step 1100/1386 | loss 0.0247 | berjalan 46m 15d | sisa ~31m 06d
+  [ 62.2%] epoch 2/3 step 1200/1386 | loss 0.0241 | berjalan 47m 53d | sisa ~29m 06d
+  [ 64.6%] epoch 2/3 step 1300/1386 | loss 0.0247 | berjalan 49m 31d | sisa ~27m 08d
+  [ 66.7%] epoch 2/3 step 1386/1386 | loss 0.0232 | berjalan 50m 56d | sisa ~25m 28d
+Epoch 2: train loss 0.0232 | val loss 0.0342 | val acc 0.9928 | val F1 0.9923
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.16it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.16it/s]
+  [ 69.1%] epoch 3/3 step 100/1386 | loss 0.0050 | berjalan 53m 20d | sisa ~23m 53d
+  [ 71.5%] epoch 3/3 step 200/1386 | loss 0.0074 | berjalan 54m 49d | sisa ~21m 52d
+  [ 73.9%] epoch 3/3 step 300/1386 | loss 0.0144 | berjalan 56m 27d | sisa ~19m 57d
+  [ 76.3%] epoch 3/3 step 400/1386 | loss 0.0126 | berjalan 58m 00d | sisa ~18m 02d
+  [ 78.7%] epoch 3/3 step 500/1386 | loss 0.0115 | berjalan 59m 27d | sisa ~16m 06d
+  [ 81.1%] epoch 3/3 step 600/1386 | loss 0.0116 | berjalan 1j 01m 02d | sisa ~14m 13d
+  [ 83.5%] epoch 3/3 step 700/1386 | loss 0.0100 | berjalan 1j 02m 39d | sisa ~12m 22d
+  [ 85.9%] epoch 3/3 step 800/1386 | loss 0.0089 | berjalan 1j 04m 17d | sisa ~10m 32d
+  [ 88.3%] epoch 3/3 step 900/1386 | loss 0.0079 | berjalan 1j 05m 52d | sisa ~8m 43d
+  [ 90.7%] epoch 3/3 step 1000/1386 | loss 0.0072 | berjalan 1j 07m 36d | sisa ~6m 55d
+  [ 93.1%] epoch 3/3 step 1100/1386 | loss 0.0075 | berjalan 1j 09m 08d | sisa ~5m 06d
+  [ 95.5%] epoch 3/3 step 1200/1386 | loss 0.0069 | berjalan 1j 10m 41d | sisa ~3m 18d
+  [ 97.9%] epoch 3/3 step 1300/1386 | loss 0.0064 | berjalan 1j 12m 13d | sisa ~1m 31d
+  [100.0%] epoch 3/3 step 1386/1386 | loss 0.0064 | berjalan 1j 13m 34d | sisa ~0m 00d
+Epoch 3: train loss 0.0064 | val loss 0.0272 | val acc 0.9959 | val F1 0.9956
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  2.19it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  2.19it/s]
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights:   6%|▋         | 13/201 [00:00<00:02, 89.71it/s]Loading weights:  11%|█         | 22/201 [00:00<00:02, 78.92it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 705.86it/s]
+{
+  "mode": "augmented",
+  "seed": 2,
+  "train_size": 11086,
+  "accuracy": 0.9862270450751253,
+  "macro": {
+    "precision": 0.9847482900084497,
+    "recall": 0.9850134655404579,
+    "f1": 0.9848806531906606
+  },
+  "per_class": {
+    "negatif": {
+      "precision": 0.9897106109324759,
+      "recall": 0.9890745501285347,
+      "f1": 0.9893924783027965,
+      "support": 1556
+    },
+    "positif": {
+      "precision": 0.9797859690844233,
+      "recall": 0.9809523809523809,
+      "f1": 0.9803688280785247,
+      "support": 840
+    }
+  },
+  "confusion_matrix [[TN,FP],[FN,TP]]": [
+    [
+      1539,
+      17
+    ],
+    [
+      16,
+      824
+    ]
+  ]
+}

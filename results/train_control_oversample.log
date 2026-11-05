@@ -1,0 +1,80 @@
+Mode: augmented | seed: 42 | device: cuda (NVIDIA GeForce GTX 1650 Ti)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] You passed `num_labels=2` which is incompatible to the `id2label` map of length `5`.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 24229.75it/s]
+[transformers] [1mBertForSequenceClassification LOAD REPORT[0m from: indobenchmark/indobert-base-p1
+Key               | Status  | 
+------------------+---------+-
+classifier.bias   | MISSING | 
+classifier.weight | MISSING | 
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+  [  2.4%] epoch 1/3 step 100/1386 | loss 0.6154 | berjalan 1m 40d | sisa ~1j 07m 39d
+  [  4.8%] epoch 1/3 step 200/1386 | loss 0.4139 | berjalan 3m 57d | sisa ~1j 18m 26d
+  [  7.2%] epoch 1/3 step 300/1386 | loss 0.3096 | berjalan 6m 37d | sisa ~1j 25m 16d
+  [  9.6%] epoch 1/3 step 400/1386 | loss 0.2495 | berjalan 9m 04d | sisa ~1j 25m 11d
+  [ 12.0%] epoch 1/3 step 500/1386 | loss 0.2192 | berjalan 11m 04d | sisa ~1j 21m 01d
+  [ 14.4%] epoch 1/3 step 600/1386 | loss 0.1962 | berjalan 12m 53d | sisa ~1j 16m 26d
+  [ 16.8%] epoch 1/3 step 700/1386 | loss 0.1766 | berjalan 15m 00d | sisa ~1j 14m 10d
+  [ 19.2%] epoch 1/3 step 800/1386 | loss 0.1651 | berjalan 16m 52d | sisa ~1j 10m 49d
+  [ 21.6%] epoch 1/3 step 900/1386 | loss 0.1514 | berjalan 18m 38d | sisa ~1j 07m 27d
+  [ 24.1%] epoch 1/3 step 1000/1386 | loss 0.1426 | berjalan 20m 37d | sisa ~1j 05m 09d
+  [ 26.5%] epoch 1/3 step 1100/1386 | loss 0.1358 | berjalan 22m 41d | sisa ~1j 03m 05d
+  [ 28.9%] epoch 1/3 step 1200/1386 | loss 0.1307 | berjalan 25m 03d | sisa ~1j 01m 45d
+  [ 31.3%] epoch 1/3 step 1300/1386 | loss 0.1240 | berjalan 27m 08d | sisa ~59m 40d
+  [ 33.3%] epoch 1/3 step 1386/1386 | loss 0.1185 | berjalan 28m 48d | sisa ~57m 37d
+Epoch 1: train loss 0.1185 | val loss 0.0588 | val acc 0.9856 | val F1 0.9846
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:01<00:00,  1.39s/it]Writing model shards: 100%|##########| 1/1 [00:01<00:00,  1.39s/it]
+  [ 35.7%] epoch 2/3 step 100/1386 | loss 0.0183 | berjalan 31m 43d | sisa ~57m 02d
+  [ 38.1%] epoch 2/3 step 200/1386 | loss 0.0149 | berjalan 33m 35d | sisa ~54m 27d
+  [ 40.5%] epoch 2/3 step 300/1386 | loss 0.0180 | berjalan 35m 29d | sisa ~52m 02d
+  [ 43.0%] epoch 2/3 step 400/1386 | loss 0.0218 | berjalan 37m 29d | sisa ~49m 47d
+  [ 45.4%] epoch 2/3 step 500/1386 | loss 0.0213 | berjalan 39m 30d | sisa ~47m 36d
+  [ 47.8%] epoch 2/3 step 600/1386 | loss 0.0189 | berjalan 41m 40d | sisa ~45m 34d
+  [ 50.2%] epoch 2/3 step 700/1386 | loss 0.0174 | berjalan 43m 44d | sisa ~43m 26d
+  [ 52.6%] epoch 2/3 step 800/1386 | loss 0.0171 | berjalan 45m 45d | sisa ~41m 16d
+  [ 55.0%] epoch 2/3 step 900/1386 | loss 0.0175 | berjalan 47m 43d | sisa ~39m 05d
+  [ 57.4%] epoch 2/3 step 1000/1386 | loss 0.0169 | berjalan 49m 43d | sisa ~36m 55d
+  [ 59.8%] epoch 2/3 step 1100/1386 | loss 0.0162 | berjalan 51m 54d | sisa ~34m 54d
+  [ 62.2%] epoch 2/3 step 1200/1386 | loss 0.0164 | berjalan 54m 05d | sisa ~32m 52d
+  [ 64.6%] epoch 2/3 step 1300/1386 | loss 0.0182 | berjalan 56m 06d | sisa ~30m 44d
+  [ 66.7%] epoch 2/3 step 1386/1386 | loss 0.0185 | berjalan 57m 48d | sisa ~28m 54d
+Epoch 2: train loss 0.0185 | val loss 0.0779 | val acc 0.9845 | val F1 0.9834
+Early stopping.
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights:   3%|2         | 6/201 [00:00<00:05, 36.66it/s]Loading weights:   5%|4         | 10/201 [00:00<00:06, 28.75it/s]Loading weights: 100%|##########| 201/201 [00:00<00:00, 577.03it/s]
+{
+  "mode": "augmented",
+  "seed": 42,
+  "train_size": 11086,
+  "accuracy": 0.9858096828046744,
+  "macro": {
+    "precision": 0.9846768239067896,
+    "recall": 0.9841443261109071,
+    "f1": 0.9844096750956692
+  },
+  "per_class": {
+    "negatif": {
+      "precision": 0.9884467265725289,
+      "recall": 0.9897172236503856,
+      "f1": 0.9890815671162492,
+      "support": 1556
+    },
+    "positif": {
+      "precision": 0.9809069212410502,
+      "recall": 0.9785714285714285,
+      "f1": 0.9797377830750894,
+      "support": 840
+    }
+  },
+  "confusion_matrix [[TN,FP],[FN,TP]]": [
+    [
+      1540,
+      16
+    ],
+    [
+      18,
+      822
+    ]
+  ]
+}

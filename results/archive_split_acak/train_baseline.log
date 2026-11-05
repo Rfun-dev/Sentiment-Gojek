@@ -1,0 +1,82 @@
+Mode: baseline | device: cuda (NVIDIA GeForce GTX 1650 Ti)
+[transformers] You passed `num_labels=2` which is incompatible to the `id2label` map of length `5`.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 23863.30it/s]
+[transformers] [1mBertForSequenceClassification LOAD REPORT[0m from: indobenchmark/indobert-base-p1
+Key               | Status  | 
+------------------+---------+-
+classifier.weight | MISSING | 
+classifier.bias   | MISSING | 
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+  [  3.6%] epoch 1/3 step 100/925 | loss 0.5077 | berjalan 2m 07d | sisa ~56m 51d
+  [  7.2%] epoch 1/3 step 200/925 | loss 0.3087 | berjalan 4m 25d | sisa ~56m 54d
+  [ 10.8%] epoch 1/3 step 300/925 | loss 0.2314 | berjalan 7m 35d | sisa ~1j 02m 41d
+  [ 14.4%] epoch 1/3 step 400/925 | loss 0.2035 | berjalan 10m 17d | sisa ~1j 01m 08d
+  [ 18.0%] epoch 1/3 step 500/925 | loss 0.1809 | berjalan 13m 17d | sisa ~1j 00m 30d
+  [ 21.6%] epoch 1/3 step 600/925 | loss 0.1668 | berjalan 16m 19d | sisa ~59m 09d
+  [ 25.2%] epoch 1/3 step 700/925 | loss 0.1544 | berjalan 19m 29d | sisa ~57m 46d
+  [ 28.8%] epoch 1/3 step 800/925 | loss 0.1452 | berjalan 22m 43d | sisa ~56m 05d
+  [ 32.4%] epoch 1/3 step 900/925 | loss 0.1352 | berjalan 26m 16d | sisa ~54m 43d
+  [ 33.3%] epoch 1/3 step 925/925 | loss 0.1342 | berjalan 27m 04d | sisa ~54m 08d
+Epoch 1: train loss 0.1342 | val loss 0.0808 | val acc 0.9844 | val F1 0.9830
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.02it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.02it/s]
+  [ 36.9%] epoch 2/3 step 100/925 | loss 0.0294 | berjalan 32m 26d | sisa ~55m 22d
+  [ 40.5%] epoch 2/3 step 200/925 | loss 0.0150 | berjalan 36m 32d | sisa ~53m 36d
+  [ 44.1%] epoch 2/3 step 300/925 | loss 0.0167 | berjalan 40m 40d | sisa ~51m 28d
+  [ 47.7%] epoch 2/3 step 400/925 | loss 0.0266 | berjalan 43m 38d | sisa ~47m 45d
+  [ 51.4%] epoch 2/3 step 500/925 | loss 0.0269 | berjalan 47m 13d | sisa ~44m 44d
+  [ 55.0%] epoch 2/3 step 600/925 | loss 0.0294 | berjalan 50m 58d | sisa ~41m 47d
+  [ 58.6%] epoch 2/3 step 700/925 | loss 0.0280 | berjalan 54m 17d | sisa ~38m 25d
+  [ 62.2%] epoch 2/3 step 800/925 | loss 0.0275 | berjalan 57m 15d | sisa ~34m 51d
+  [ 65.8%] epoch 2/3 step 900/925 | loss 0.0331 | berjalan 1j 00m 21d | sisa ~31m 24d
+  [ 66.7%] epoch 2/3 step 925/925 | loss 0.0326 | berjalan 1j 01m 05d | sisa ~30m 32d
+Epoch 2: train loss 0.0326 | val loss 0.0605 | val acc 0.9844 | val F1 0.9830
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.88it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.88it/s]
+  [ 70.3%] epoch 3/3 step 100/925 | loss 0.0064 | berjalan 1j 05m 53d | sisa ~27m 52d
+  [ 73.9%] epoch 3/3 step 200/925 | loss 0.0035 | berjalan 1j 09m 25d | sisa ~24m 33d
+  [ 77.5%] epoch 3/3 step 300/925 | loss 0.0030 | berjalan 1j 12m 43d | sisa ~21m 08d
+  [ 81.1%] epoch 3/3 step 400/925 | loss 0.0047 | berjalan 1j 15m 37d | sisa ~17m 38d
+  [ 84.7%] epoch 3/3 step 500/925 | loss 0.0052 | berjalan 1j 18m 28d | sisa ~14m 11d
+  [ 88.3%] epoch 3/3 step 600/925 | loss 0.0044 | berjalan 1j 21m 16d | sisa ~10m 46d
+  [ 91.9%] epoch 3/3 step 700/925 | loss 0.0061 | berjalan 1j 24m 00d | sisa ~7m 24d
+  [ 95.5%] epoch 3/3 step 800/925 | loss 0.0061 | berjalan 1j 26m 47d | sisa ~4m 05d
+  [ 99.1%] epoch 3/3 step 900/925 | loss 0.0069 | berjalan 1j 29m 28d | sisa ~0m 48d
+  [100.0%] epoch 3/3 step 925/925 | loss 0.0067 | berjalan 1j 30m 11d | sisa ~0m 00d
+Epoch 3: train loss 0.0067 | val loss 0.0740 | val acc 0.9886 | val F1 0.9875
+Early stopping.
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights:   4%|▍         | 8/201 [00:00<00:02, 67.61it/s]Loading weights:   7%|▋         | 15/201 [00:00<00:04, 45.03it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 497.64it/s]
+{
+  "mode": "baseline",
+  "train_size": 7396,
+  "accuracy": 0.9904246461282264,
+  "macro": {
+    "precision": 0.9897086772136283,
+    "recall": 0.9894564594456008,
+    "f1": 0.9895823492419078
+  },
+  "per_class": {
+    "negatif": {
+      "precision": 0.9922229423201555,
+      "recall": 0.9928664072632944,
+      "f1": 0.9925445705024312,
+      "support": 1542
+    },
+    "positif": {
+      "precision": 0.9871944121071012,
+      "recall": 0.986046511627907,
+      "f1": 0.9866201279813845,
+      "support": 860
+    }
+  },
+  "confusion_matrix [[TN,FP],[FN,TP]]": [
+    [
+      1531,
+      11
+    ],
+    [
+      12,
+      848
+    ]
+  ]
+}

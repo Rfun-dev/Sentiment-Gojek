@@ -1,0 +1,500 @@
+0	ringkas tapi tetap jelas	senang dapat diskon banyak
+1	tambahkan sedikit detail situasi yang masuk akal	cepat drivernya datang dan mudah kapan saja di perlukan
+2	ubah susunan kalimat dan pilihan kata	sudah bisa didownload billnya tks ya min
+3	pakai gaya santai/informal pengguna biasa	pelayanan ramah good
+4	ringkas tapi tetap jelas	mantap lokasinya lengkap
+5	tambahkan sedikit detail situasi yang masuk akal	bagus sih apk nya biasa tidak ya di tambahin obat aputik begitu biar kalo ada orang sakit di kos sendiri jadi bisa beli lewat apak gojek
+6	ubah susunan kalimat dan pilihan kata	terima kasih sudah diantar sampai rumah kondisi sakit habis operasi tapi didrive dengan nyaman thx lu
+7	pakai gaya santai/informal pengguna biasa	lebih praktis sangat membantu
+8	ringkas tapi tetap jelas	selalu siap membantu emak yang malas keluar
+9	tambahkan sedikit detail situasi yang masuk akal	masih paling top di tahun
+10	ubah susunan kalimat dan pilihan kata	gofood good nice
+11	pakai gaya santai/informal pengguna biasa	sangat ramah dan familiar
+12	ringkas tapi tetap jelas	gofoodny keren ramah cepat pngrimanny komunikasi untuk location baik atributnya juga lengkap
+13	tambahkan sedikit detail situasi yang masuk akal	sering sering kasih promo atau diskon biar jajan terus
+14	ubah susunan kalimat dan pilihan kata	sejauh ini bagus
+15	pakai gaya santai/informal pengguna biasa	alhmdulillah pelayanan baik
+16	ringkas tapi tetap jelas	jalan nya bagus tidak ngebut dan rahmah mudah di ajak komonokasi
+17	tambahkan sedikit detail situasi yang masuk akal	ya intinya bagus banget
+18	ubah susunan kalimat dan pilihan kata	aplikasi mudah di operasikan banyak pilihan meminimalisir kesalahan harga sepadan terimakasih
+19	pakai gaya santai/informal pengguna biasa	mantap pokok e
+20	ringkas tapi tetap jelas	oke bagus bersih tidak bau bawanya juga baik
+21	tambahkan sedikit detail situasi yang masuk akal	bagus walau jarak dekat mau mengantar
+22	ubah susunan kalimat dan pilihan kata	senang kalau banyak diskon
+23	pakai gaya santai/informal pengguna biasa	selalu nyaman sama gojek
+24	ringkas tapi tetap jelas	diskon nya membanyaki min
+25	tambahkan sedikit detail situasi yang masuk akal	bagus pelayanan cepat
+26	ubah susunan kalimat dan pilihan kata	aku akan selalu pakai gojek
+27	pakai gaya santai/informal pengguna biasa	aplikasi yang tidak ribet untuk di gunakan
+28	ringkas tapi tetap jelas	dengan aplikasi ini kebutuhan saya yang mendadak dan tidak langsung beli kebutuhan saya di toko sangangat membantu
+29	tambahkan sedikit detail situasi yang masuk akal	pelayanan baik meski beberapa driver pelayanan kurang baik
+30	ubah susunan kalimat dan pilihan kata	mau beli apaan saja jadi mudah
+31	pakai gaya santai/informal pengguna biasa	sejauh ini pakai gojek baik saja ya abng drivernya juga baik cuma aku seringkali kesulitan untuk order di akhir pekan btw trmksh gojek untuk kemudahan dalam setiap perjalanan
+32	ringkas tapi tetap jelas	murah dan baik pelayanan nya
+33	tambahkan sedikit detail situasi yang masuk akal	terimakasih go jek atas pelayanan dan jasanya selama pemakaian belum pernah terjadi hal hal yang tidak dinginkan sebelumnya terimakasih sekali lagi
+34	ubah susunan kalimat dan pilihan kata	sampai sekarang ini pelayan nya cukup buat kita puas
+35	pakai gaya santai/informal pengguna biasa	apk terpercaya ya walaupunnn driver nya ada yang mengesalkan buangetttttt tapi okeyylahhh kan tidak semuanya yang ngeselinnn
+36	ringkas tapi tetap jelas	tikatkan lagi pelayanannya
+37	tambahkan sedikit detail situasi yang masuk akal	aplikasi ini sangat membantu sekali untuk berpergian mudah diakses ditingkatkan terus untuk pelayanan lebih baik lagi terimakasih
+38	ubah susunan kalimat dan pilihan kata	driver cepat aman dan sopan
+39	pakai gaya santai/informal pengguna biasa	sangat membantu transportasi online
+40	ringkas tapi tetap jelas	mantap memudahkan saya
+41	tambahkan sedikit detail situasi yang masuk akal	bagus banget aku kasih lima bintang
+42	ubah susunan kalimat dan pilihan kata	lebih murah dan lebih praktis
+43	pakai gaya santai/informal pengguna biasa	sering kasih diskon dong
+44	ringkas tapi tetap jelas	selalu dijemput cepat dan banyak discount
+45	tambahkan sedikit detail situasi yang masuk akal	bagus murah cepat praktis
+46	ubah susunan kalimat dan pilihan kata	murah dan cepat datang
+47	pakai gaya santai/informal pengguna biasa	senang lihat driver gojeknya santun walau jauh lokasi nganternya tapi tidak mengeluh dan tetap semangat semoga allah swt selalu melimpahkan rezeki yang banyak buat abng gojeknya amin
+48	ringkas tapi tetap jelas	lucu banget sambil menunggu makanan disiapin bisa lihat chef dibantu kucingnya masak
+49	tambahkan sedikit detail situasi yang masuk akal	cepat dan praktis tinggal pencet datang deeeh
+50	ubah susunan kalimat dan pilihan kata	bagus dan cepat semoga banyak promo
+51	pakai gaya santai/informal pengguna biasa	oke banget walau baru pertama pakai
+52	ringkas tapi tetap jelas	aplikasi yang benar sangat membantu sekali
+53	tambahkan sedikit detail situasi yang masuk akal	mempermudah saya untuk pesan makanan ketika lapar
+54	ubah susunan kalimat dan pilihan kata	sangat membantu banget
+55	pakai gaya santai/informal pengguna biasa	membanyaki promonya ya
+56	ringkas tapi tetap jelas	semoga lancar selalu
+57	tambahkan sedikit detail situasi yang masuk akal	gatau intinya bagus
+58	ubah susunan kalimat dan pilihan kata	trimaksih gojek karena selalu mempermudah perjalanan ku
+59	pakai gaya santai/informal pengguna biasa	bagus banget suka
+60	ringkas tapi tetap jelas	sangat membantu mantap
+61	tambahkan sedikit detail situasi yang masuk akal	cepat driver nya ramah
+62	ubah susunan kalimat dan pilihan kata	pokoknya suka dan suka aplikasi ini sangat membantu dah pokoknya
+63	pakai gaya santai/informal pengguna biasa	ok gas ok gasss
+64	ringkas tapi tetap jelas	si lalu tepat waktu
+65	tambahkan sedikit detail situasi yang masuk akal	semoga lebih bermanfaat bagi pengguna dan mitra nya
+66	ubah susunan kalimat dan pilihan kata	nyaman nyaman semua selama saya pesan di gojek
+67	pakai gaya santai/informal pengguna biasa	lancar dan aman
+68	ringkas tapi tetap jelas	happy banget pakai aplikasi gojek memudahkan pengguna
+69	tambahkan sedikit detail situasi yang masuk akal	gojek ini sangat membantu saya sekali dan pelayanan nya sangat ramah semua kurir membuat saya aman saat berkendara terimakasih gojek indonesia
+70	ubah susunan kalimat dan pilihan kata	sebagai pelajar gojek termasuk murah buat transportasi kemanapun tapi aku sih gapapa menunggu lama gojeknya tapi kadang gada yang ambil gojekku sisanya bagus dan tidak ada kendala
+71	pakai gaya santai/informal pengguna biasa	pengalaman yang top
+72	ringkas tapi tetap jelas	selalu tepat waktu good job
+73	tambahkan sedikit detail situasi yang masuk akal	super app yang benaran serba bisa goride hampir setiap hari saya pakai gofood jadi penyelamat kalau malas masak dan gopay untuk semua transaksi cashless driver biasanya sudah dekat dan eta nya akurat selalu saya andalkan
+74	ubah susunan kalimat dan pilihan kata	mantap terima kasih banyak
+75	pakai gaya santai/informal pengguna biasa	gojek sangat terpercaya
+76	ringkas tapi tetap jelas	mantap lah pakai gojek
+77	tambahkan sedikit detail situasi yang masuk akal	titik jemputnya sesuai peta dan nama tempatnya tarif sekarang lebih murah
+78	ubah susunan kalimat dan pilihan kata	selama ini tepat waktu dan komunikatif
+79	pakai gaya santai/informal pengguna biasa	mantap sejauh ini aman alhamdulillah
+80	ringkas tapi tetap jelas	alhamdulillah kemana mana jadi mudah ada gojek yang siap antar terimakasih gojek
+81	tambahkan sedikit detail situasi yang masuk akal	selalu jempol buat gojek
+82	ubah susunan kalimat dan pilihan kata	sangat membantu disaat perlu transfortasi yang cepat hemat dan efisien waktu
+83	pakai gaya santai/informal pengguna biasa	dimana pun dan kapan pun sangat membantu
+84	ringkas tapi tetap jelas	alhamdulillah membantu sekali pergi kesana kemari serasa punya mobil banyak
+85	tambahkan sedikit detail situasi yang masuk akal	bagus cepat dan nyaman
+86	ubah susunan kalimat dan pilihan kata	perdana pesan gercep terima kasih gojek
+87	pakai gaya santai/informal pengguna biasa	mntap dan pertahankan gojek is the best
+88	ringkas tapi tetap jelas	mas sangat baik dan rendah hati pokonya puas dan menyenangkan
+89	tambahkan sedikit detail situasi yang masuk akal	bagus dan bermanfaat
+90	ubah susunan kalimat dan pilihan kata	mantap thanks suka ada promo
+91	pakai gaya santai/informal pengguna biasa	sangat murah dan nyaman
+92	ringkas tapi tetap jelas	menggunakan nya mudah dan pesanan cepat hanya tinggal klik tombol yang perlu saja untuk pelayanan nya
+93	tambahkan sedikit detail situasi yang masuk akal	go jek oke banget
+94	ubah susunan kalimat dan pilihan kata	pelayanan driver baik
+95	pakai gaya santai/informal pengguna biasa	enak nyaman cepat sampai tarif murah terima kasih gojek
+96	ringkas tapi tetap jelas	very good job
+97	tambahkan sedikit detail situasi yang masuk akal	sangat membantu fan efektif
+98	ubah susunan kalimat dan pilihan kata	sangat membantu sehari hari
+99	pakai gaya santai/informal pengguna biasa	suka pkoknya endyull
+100	ringkas tapi tetap jelas	simple cepat profesional
+101	tambahkan sedikit detail situasi yang masuk akal	cepat dan mantap
+102	ubah susunan kalimat dan pilihan kata	pelayanan sepenuh hati ramah dan sopan mantap
+103	pakai gaya santai/informal pengguna biasa	sangat membantu banget puas banget pesan makanan pun jadi gampang
+104	ringkas tapi tetap jelas	dapat nengatasi masalah dengan cepat
+105	tambahkan sedikit detail situasi yang masuk akal	bersama gojek saya merasa nyaman selama berkendara drivernya juga ramah sangat membantu trm kasih ya
+106	ubah susunan kalimat dan pilihan kata	bagus nyaman banyak ongkirnya
+107	pakai gaya santai/informal pengguna biasa	barusan dapan driver yang asik perjalanan cepat lancar sangat kooperatif sehingga saya datang ke tujuan tepat waktu
+108	ringkas tapi tetap jelas	pengemudi baik ramah sopan kendraan bersih terawat
+109	tambahkan sedikit detail situasi yang masuk akal	terima kasih sopir sangat baik
+110	ubah susunan kalimat dan pilihan kata	buat sarapan pagi disini saja
+111	pakai gaya santai/informal pengguna biasa	sopan tepat waktu
+112	ringkas tapi tetap jelas	driver seperti ini layak jadi presiden indonesia
+113	tambahkan sedikit detail situasi yang masuk akal	memudahkan di saat tidak bisa keluar
+114	ubah susunan kalimat dan pilihan kata	driver dan mobil cukup nyaman
+115	pakai gaya santai/informal pengguna biasa	cepat dan sopan pakai atribut gojek baik dan bersih
+116	ringkas tapi tetap jelas	sangat sangat dermawan
+117	tambahkan sedikit detail situasi yang masuk akal	oke sangat bagus
+118	ubah susunan kalimat dan pilihan kata	baik bagus murah
+119	pakai gaya santai/informal pengguna biasa	bagus gampang dan murah
+120	ringkas tapi tetap jelas	alhamdulillah sekarang ini sudah lebih bagus lagi aplikasi nya dan sudah keren banget
+121	tambahkan sedikit detail situasi yang masuk akal	oke aman nyaman
+122	ubah susunan kalimat dan pilihan kata	sahabat transportasi yang baik terimakasih
+123	pakai gaya santai/informal pengguna biasa	sangat memudahkan bepergian ke mana saja mantap
+124	ringkas tapi tetap jelas	nyaman dan untuk harga sangat terjangkau murah
+125	tambahkan sedikit detail situasi yang masuk akal	terbukti akurat dan tidak mengecewakan
+126	ubah susunan kalimat dan pilihan kata	sangat membantu suka juga karena bisa pakai koin gopay dan itu membantu banget
+127	pakai gaya santai/informal pengguna biasa	bagus pokoknya mah
+128	ringkas tapi tetap jelas	murah dan aman
+129	tambahkan sedikit detail situasi yang masuk akal	promonya mantan dan cepat
+130	ubah susunan kalimat dan pilihan kata	driver ya luar biasa baik dan keren
+131	pakai gaya santai/informal pengguna biasa	dapat diskon tiap minggu goridenya juga murah
+132	ringkas tapi tetap jelas	saya sangat terbantu dengan aplikasi ini
+133	tambahkan sedikit detail situasi yang masuk akal	cepat dan murah
+134	ubah susunan kalimat dan pilihan kata	solusi dalam segala kondisi terutama saat urgent mau beli obat buat yang pada kayak sekarang ini
+135	pakai gaya santai/informal pengguna biasa	respon drivernya cepat dan pemilihan rute juga bagus aplikasi ini sangat membantu saya dalam bepergian
+136	ringkas tapi tetap jelas	keren n tingkatkan
+137	tambahkan sedikit detail situasi yang masuk akal	lebih cepat ramah semakin banyak armada motornya trimakasih
+138	ubah susunan kalimat dan pilihan kata	aplikasi ini sangat bagus untuk tranportasi dan lain
+139	pakai gaya santai/informal pengguna biasa	aplikasi yang okeh
+140	ringkas tapi tetap jelas	senang karena sopan dan hemat
+141	tambahkan sedikit detail situasi yang masuk akal	pelayanan cepat dan aman
+142	ubah susunan kalimat dan pilihan kata	naikilah gojek karena gojek is the best
+143	pakai gaya santai/informal pengguna biasa	jos jis selalu ada promo
+144	ringkas tapi tetap jelas	sangat mudah dan gampang pokok nya oke lah buat apk gojek nya dan buat para driver nya semangat ya
+145	tambahkan sedikit detail situasi yang masuk akal	aplikasinya sangat berguna banget apalagi saat kita malas untuk bepergian kita bisa pesan makan lewat aplikasi ini
+146	ubah susunan kalimat dan pilihan kata	mantap gasssspol enggak kayak yang lain ini driver top agak lain dari yang lain layanannya didasari dengan hati hingga penuh dedikasi terima kasih mas wintoro sukses bertambah rejeki dan sehat selalu
+147	pakai gaya santai/informal pengguna biasa	okey banget deh mantap
+148	ringkas tapi tetap jelas	selalu dengan go jek
+149	tambahkan sedikit detail situasi yang masuk akal	cepat banget service nya bagus go go gojek
+150	ubah susunan kalimat dan pilihan kata	gojek selalu dihati driver pada ramah banget
+151	pakai gaya santai/informal pengguna biasa	bagus pelayanan nya cepat
+152	ringkas tapi tetap jelas	pelayanannya baik dekali
+153	tambahkan sedikit detail situasi yang masuk akal	aplikasi yang sangat membantu banget dan banyak promonya terima kasih gojek
+154	ubah susunan kalimat dan pilihan kata	banyak kegunaannya dan manfaat sudah sering ku gunakan di komputer line
+155	pakai gaya santai/informal pengguna biasa	terimakasih atas bantuannya
+156	ringkas tapi tetap jelas	bagus fitur melimpah bisa beli makanan bisa meminta antar barang bisa antar dan jemput pokoknya ini aplikasi berguna banget
+157	tambahkan sedikit detail situasi yang masuk akal	suka banget pakai gojek harganya sangat terjangkau
+158	ubah susunan kalimat dan pilihan kata	order grap carnya cepat enggak lama lnsg dtng
+159	pakai gaya santai/informal pengguna biasa	drivernya ramah dan sopan
+160	ringkas tapi tetap jelas	bagus apk nya
+161	tambahkan sedikit detail situasi yang masuk akal	aman dan jaman
+162	ubah susunan kalimat dan pilihan kata	local pride semoga semakin makin kompetitif dan terdepan dalam melayani pelanggan
+163	pakai gaya santai/informal pengguna biasa	gojek memang paling top
+164	ringkas tapi tetap jelas	gojek gocar gofood tetap jadi andalan sampai detik ini
+165	tambahkan sedikit detail situasi yang masuk akal	terimakasih selalu ada untuk semua gojek tetap amanah ya
+166	ubah susunan kalimat dan pilihan kata	sangat baik terus ditingkatkan untuk service nya
+167	pakai gaya santai/informal pengguna biasa	oke sudah dibuka blokirannya
+168	ringkas tapi tetap jelas	sangat membantu ketika kita lagi mager
+169	tambahkan sedikit detail situasi yang masuk akal	sangat membantu n mudah
+170	ubah susunan kalimat dan pilihan kata	of course membantu banget sih untuk berpergian terus untuk yang pada mls beli makanan di luar bisa di antar lewat gofood perfect banget dah
+171	pakai gaya santai/informal pengguna biasa	bisa di gunakan untuk sesukanya dan banyak diskon yang di perlukan
+172	ringkas tapi tetap jelas	pelayanan ok tepat waktu ramah senyum sapa
+173	tambahkan sedikit detail situasi yang masuk akal	pelayanan nya baik ramah dan hemat
+174	ubah susunan kalimat dan pilihan kata	lumayan dapat coin
+175	pakai gaya santai/informal pengguna biasa	mantap n oke
+176	ringkas tapi tetap jelas	suka banget goofood makanan disini
+177	tambahkan sedikit detail situasi yang masuk akal	sering dapat diskon amat sangat membantu cepat dapat drivernya
+178	ubah susunan kalimat dan pilihan kata	tepat dan ramah
+179	pakai gaya santai/informal pengguna biasa	selalu aman dan nyaman pakai aplikasi gojek
+180	ringkas tapi tetap jelas	desain simple tidak membingungkan pelayanan oke cocok buat siapa saja dan yang pasti buatan negeri
+181	tambahkan sedikit detail situasi yang masuk akal	sangat mudah untuk menggunakanya
+182	ubah susunan kalimat dan pilihan kata	gojek membantu banyak pengangguran
+183	pakai gaya santai/informal pengguna biasa	aplikasi ini sangat membantu bagi saya dan juga mungkin banyak yang lainya kalau bisa mohon lebih ditingkatkan lagi jangan sampai kalo pesan driver suka dapatnya driver yang jauh padahal di aplikasi map nya banyak driver dekat
+184	ringkas tapi tetap jelas	okee membanyaki promo gofood
+185	tambahkan sedikit detail situasi yang masuk akal	mantap dan bisa di andalkan di semua waktu cepat tanggal dan konsisten bagus jelas lancar
+186	ubah susunan kalimat dan pilihan kata	driver baik dan ramah
+187	pakai gaya santai/informal pengguna biasa	rata driver nya sopan kendaraan bersih
+188	ringkas tapi tetap jelas	memberikan pelayanan yang terbaik
+189	tambahkan sedikit detail situasi yang masuk akal	sejauh ini puas pakai gojek aplikasinya gampang dipakai dan cukup lengkap mau pesan makanan transportasi atau kebutuhan lainnya tinggal buka satu aplikasi driver juga banyak dan proses pesanannya cukup cepat semoga ke depannya semakin bagus dan fiturnya makin lengkap
+190	ubah susunan kalimat dan pilihan kata	praktis dan ekonomis sedia siap setiap saat
+191	pakai gaya santai/informal pengguna biasa	sangat membantu pada saat ketinggalan jemputan saya sering pakai aplikasi ini
+192	ringkas tapi tetap jelas	nyaman ramah ontime oke memuaskan
+193	tambahkan sedikit detail situasi yang masuk akal	sangat membantu mohon di pertahankan untuk promo gojek nya
+194	ubah susunan kalimat dan pilihan kata	gojek selalu jadi opsi kala genting apalagi bagi saya mahasiswa yang tidak bisa bawa motor terima kasih karena selalu bisa bantu
+195	pakai gaya santai/informal pengguna biasa	gofood has made ordering food from my favorite local restaurants incredibly easy and fast the variety of options is impressive from street food tapi fine dining itu si all available delivery is consistently on time the drivers are professional and the app interface is clean and responsive gopay integration makes payment seamless my favorite food delivery app ini indonesia
+196	ringkas tapi tetap jelas	sayang banyak sama ini apk
+197	tambahkan sedikit detail situasi yang masuk akal	terus mengedepankan pelayanan yang oke
+198	ubah susunan kalimat dan pilihan kata	lumayan kalau ada promo lebih lumayan lagi
+199	pakai gaya santai/informal pengguna biasa	apikasi sagat bagus
+200	ringkas tapi tetap jelas	terima kasih banyak gojek sangat membantu saat enggak ada kendaraan untuk pergi
+201	tambahkan sedikit detail situasi yang masuk akal	transaksi perjalanan jadi mudah tanpa ribet menunggu lama
+202	ubah susunan kalimat dan pilihan kata	oke banget lumayanlah
+203	pakai gaya santai/informal pengguna biasa	tolong tambahin metode pembayaran pakai qris dong jek sudah bagus nih apk lu sudah ada kemajuan nice harga juga seimbang sama apk sebelah begitu dong
+204	ringkas tapi tetap jelas	membantu banget buat saya yang masih belum hafal daerah
+205	tambahkan sedikit detail situasi yang masuk akal	semangat menuju lebih baik bersama gojek
+206	ubah susunan kalimat dan pilihan kata	the best pokoknyaaa
+207	pakai gaya santai/informal pengguna biasa	pelayanan bagus dan driver nya sopan
+208	ringkas tapi tetap jelas	menu dan pelayanan berkendara nyaman dan aman
+209	tambahkan sedikit detail situasi yang masuk akal	option pilihan layanan nya sangat membantu
+210	ubah susunan kalimat dan pilihan kata	aplikasi nya mudah di gunakan simple dan lengkap
+211	pakai gaya santai/informal pengguna biasa	baguus pelayanan nya gojek sangat bermanfaat dan membantu saya terimakasih ya
+212	ringkas tapi tetap jelas	selalu menjadi andalan
+213	tambahkan sedikit detail situasi yang masuk akal	cepat pelayanannya saya suka dan amanah
+214	ubah susunan kalimat dan pilihan kata	sangat membantu tahan you
+215	pakai gaya santai/informal pengguna biasa	selalu aman pakai gojek
+216	ringkas tapi tetap jelas	tingkatkan terus supaya jadi lebih baik
+217	tambahkan sedikit detail situasi yang masuk akal	sangat membantu perjalanan saat turun dari bis langsung pesan gojek lebih praktis hemat ongkos dan aman di perjalanan
+218	ubah susunan kalimat dan pilihan kata	bagus kak bahanya
+219	pakai gaya santai/informal pengguna biasa	bagus dan sangat membantu
+220	ringkas tapi tetap jelas	sampai dengan selamat
+221	tambahkan sedikit detail situasi yang masuk akal	transfortasi andalanku kalau kemana mana aman nyaman dan terpercaya
+222	ubah susunan kalimat dan pilihan kata	semua urusan jadi beres
+223	pakai gaya santai/informal pengguna biasa	oke sangat membantu tingkatkan kenyamanan pelanggan biar semakin diminati
+224	ringkas tapi tetap jelas	bagus jadi beli makan dan minum tidak keluar rumah mantap
+225	tambahkan sedikit detail situasi yang masuk akal	aplikasi nya sangat sangat berguna banget untuk berpergian sendirian tanpa harus bingung mau naik apa terimakasih buat aplikasi gojek sangat berguna dan seru aku kasih bintang
+226	ubah susunan kalimat dan pilihan kata	karya terbaik bangsa very helpfull map pesan saya sejahterakan mitra inshaallah barokah dan makin sukses gojek ini
+227	pakai gaya santai/informal pengguna biasa	driver ramah ramah respon aplikasi sangat cepat mendapatkan driver
+228	ringkas tapi tetap jelas	mantap tambah mantap kalo bisa pakai gopay laternya
+229	tambahkan sedikit detail situasi yang masuk akal	sekarang sering banget pakai ini
+230	ubah susunan kalimat dan pilihan kata	memuaskan drivernya baik ramah dan memberi opsi jalan yang terbaik tercepat dan nyaman
+231	pakai gaya santai/informal pengguna biasa	josss sangat membantu untuk semua
+232	ringkas tapi tetap jelas	mantap dan banyak promo menarik
+233	tambahkan sedikit detail situasi yang masuk akal	cepat hemat dan nyamaan
+234	ubah susunan kalimat dan pilihan kata	semuanya bagus aplikasi sangat mudah untuk digunakan dan mas gojek nya baik semua
+235	pakai gaya santai/informal pengguna biasa	alhamdulillah mobilnya bersih bapaknya santun dan nyetirnya kalem tidak tergopo gopo terimakasih ghih pak semoga rizkinya mengalir deras amin
+236	ringkas tapi tetap jelas	nice good best ever
+237	tambahkan sedikit detail situasi yang masuk akal	bermanfaat berpergian tanpa ribet
+238	ubah susunan kalimat dan pilihan kata	gojek memang thebessss
+239	pakai gaya santai/informal pengguna biasa	sangat praktis untuk mendapatkan jasa antaran
+240	ringkas tapi tetap jelas	nyaman saat di perjalanan
+241	tambahkan sedikit detail situasi yang masuk akal	sangat bermanfaat untuk memudahkan pesan transportasi melalui online untuk aplikasi gojek trmksh
+242	ubah susunan kalimat dan pilihan kata	santun cepat responnya
+243	pakai gaya santai/informal pengguna biasa	amat membantu dalam situasi apapun
+244	ringkas tapi tetap jelas	bagus sekali enggak aplikasi nya sangat berguna dan drivernya ramah ramah mantap deh pokoknya
+245	tambahkan sedikit detail situasi yang masuk akal	mantaps lah pokonya
+246	ubah susunan kalimat dan pilihan kata	pelayanan nya mantap
+247	pakai gaya santai/informal pengguna biasa	layanan gosend baik sejauh ini bagus terimakasih
+248	ringkas tapi tetap jelas	menyenangkan lebih membanyaki diskon dong mengharap
+249	tambahkan sedikit detail situasi yang masuk akal	mantap pakai gojek
+250	ubah susunan kalimat dan pilihan kata	sangatt terbantu dengan adanya apk ini
+251	pakai gaya santai/informal pengguna biasa	pelayanan nya ok banget
+252	ringkas tapi tetap jelas	ok banget jam berapa saja selalu ada
+253	tambahkan sedikit detail situasi yang masuk akal	sangat ramah dan sopan
+254	ubah susunan kalimat dan pilihan kata	suka cepat lagi kalau naik gojek
+255	pakai gaya santai/informal pengguna biasa	sangat membantu aktivitas saya terimakasih
+256	ringkas tapi tetap jelas	bagus driver nya ramah banget
+257	tambahkan sedikit detail situasi yang masuk akal	bangga dengan produk dalam negeri
+258	ubah susunan kalimat dan pilihan kata	luar biasa gercep
+259	pakai gaya santai/informal pengguna biasa	semoga bermanfaat untuk kalangan bawah seperti saya
+260	ringkas tapi tetap jelas	mantap membantu sekali top gojek indonesia
+261	tambahkan sedikit detail situasi yang masuk akal	mudah dan pelayanan memuaskan
+262	ubah susunan kalimat dan pilihan kata	aplikasi sangat membantu kebutuhan sehari
+263	pakai gaya santai/informal pengguna biasa	baik tepat waktu
+264	ringkas tapi tetap jelas	selama pakai gojek bagus saja kok pelayanan nya driver nya juga ramah
+265	tambahkan sedikit detail situasi yang masuk akal	i really like this application and itu makes the user feel comfortable
+266	ubah susunan kalimat dan pilihan kata	cepat sesuai ekspektasi
+267	pakai gaya santai/informal pengguna biasa	mantap pokoknya asik
+268	ringkas tapi tetap jelas	pelayanannya oke banget
+269	tambahkan sedikit detail situasi yang masuk akal	pokoe membantu tenan
+270	ubah susunan kalimat dan pilihan kata	oke gesit antar pesanan nya
+271	pakai gaya santai/informal pengguna biasa	baik bagus keren
+272	ringkas tapi tetap jelas	ok trm kasih
+273	tambahkan sedikit detail situasi yang masuk akal	bagus dalam segi palayanan
+274	ubah susunan kalimat dan pilihan kata	semoga gojek selalu jaya
+275	pakai gaya santai/informal pengguna biasa	murah n cepat
+276	ringkas tapi tetap jelas	puas sok far thanks
+277	tambahkan sedikit detail situasi yang masuk akal	sangat bermanfaat semoga pelayanan semakin baik ke depannya
+278	ubah susunan kalimat dan pilihan kata	lebih sat set dari pada grab mantap
+279	pakai gaya santai/informal pengguna biasa	semenjak ada aplikasi gojek perjalanan kemana saja jadi lebih mudah
+280	ringkas tapi tetap jelas	bagus sangat membantu
+281	tambahkan sedikit detail situasi yang masuk akal	sudah bagus aplikasinya tapi aga lama menunggu dapat drivernya kadang menitan baru dapat
+282	ubah susunan kalimat dan pilihan kata	mudah dan praktis transaksi lancar karena qris dan uang digital di danantara presisi alhamdulillah jaya kali
+283	pakai gaya santai/informal pengguna biasa	solusi tepat waktu lapar tidak perlu masak
+284	ringkas tapi tetap jelas	banyak abang dan ibu yang baik
+285	tambahkan sedikit detail situasi yang masuk akal	teruslah mengabdi kepada rakyat indonesia tercinta gojek bestttt
+286	ubah susunan kalimat dan pilihan kata	best and driver amanah
+287	pakai gaya santai/informal pengguna biasa	sangat terbantu dan memuaskan
+288	ringkas tapi tetap jelas	sangat terbantu dengan adanya gojek untuk keperluan transport terima kasih kakak driver semoga rejekinya lancar selalu
+289	tambahkan sedikit detail situasi yang masuk akal	sangat mmbntu sekali
+290	ubah susunan kalimat dan pilihan kata	top bagus sangat membantu
+291	pakai gaya santai/informal pengguna biasa	sejauh ini suka selalu ada diskon untuk pelajar yang mau pulang sekolah ataupun berangkat sekolah
+292	ringkas tapi tetap jelas	enggak go jek good
+293	tambahkan sedikit detail situasi yang masuk akal	baik dan sopan
+294	ubah susunan kalimat dan pilihan kata	pengemudi baik dan sopan
+295	pakai gaya santai/informal pengguna biasa	aman terpercaya mantab pokonya
+296	ringkas tapi tetap jelas	lebih nyaman pakai gojek
+297	tambahkan sedikit detail situasi yang masuk akal	aplikasi ini bagus sekali
+298	ubah susunan kalimat dan pilihan kata	sangat bermanfaat sekali dan praktis cepat
+299	pakai gaya santai/informal pengguna biasa	bagus cepat driver ramah
+300	ringkas tapi tetap jelas	bagus aplikasinya kalo ada kendala cepat diselesaikan
+301	tambahkan sedikit detail situasi yang masuk akal	sudah lama pakai aplikasi ini tidak pernah mengecewakan
+302	ubah susunan kalimat dan pilihan kata	kemanapun mudah tidak ribet
+303	pakai gaya santai/informal pengguna biasa	cepat dan akurat
+304	ringkas tapi tetap jelas	yey thank lu gojek for being present ini my life soo happy yasyasyas semua jadi aksesibel semenjak ada gojek bisa kesana bisa kesini dengan mudah gampang dan tidak pakai ribet
+305	tambahkan sedikit detail situasi yang masuk akal	apl ini sangat bagus tidak mengecewakan
+306	ubah susunan kalimat dan pilihan kata	moga makin sering mengasih promo diskon ongkir atau diskon belanja terima kasih
+307	pakai gaya santai/informal pengguna biasa	gosend makanan sangat membantu disaat menjamu tamu di rumah
+308	ringkas tapi tetap jelas	selalu bisa di andalkan dan paling praktis
+309	tambahkan sedikit detail situasi yang masuk akal	sangat menarik terima kasih
+310	ubah susunan kalimat dan pilihan kata	dengan adanya go jek cukup banyak membantu aktivitas bepergian atau antar jemput anak ke sekolah terima kasih go jek
+311	pakai gaya santai/informal pengguna biasa	sangat membantu dalam urgent keseharian
+312	ringkas tapi tetap jelas	cepat aman tidak bertele tele
+313	tambahkan sedikit detail situasi yang masuk akal	bagus pelayanannya amanah banget
+314	ubah susunan kalimat dan pilihan kata	cukup ramah pengantarnya
+315	pakai gaya santai/informal pengguna biasa	aku suka aplikasi ini sangat bantu aku dalam pergi kemana driver nya juga pada baik sih terus ada fitur lain juga aku baru mencoba yang mengantar barang saja terus kan ada kayak teks di update gojek nya itu aku sering baca karena lucu banget pliss sudah tidak dikasih lagi sih jauh driver nya jadi senang terima kasih sudah buat aplikasi ini
+316	ringkas tapi tetap jelas	selama saya menggunakan aplikasi ini masih merasa nyaman
+317	tambahkan sedikit detail situasi yang masuk akal	bagus banget anjiers sehidup ini belum pernah nemu driver problematik disini wkwk mantull deh ini aplikasi
+318	ubah susunan kalimat dan pilihan kata	aplikasi ternyaman dan memberikan pelayanan yang baik kepada customer dan mitra pengemudi
+319	pakai gaya santai/informal pengguna biasa	murah dan mudah digunakan
+320	ringkas tapi tetap jelas	driver nya baik semua
+321	tambahkan sedikit detail situasi yang masuk akal	driver nya ok ramah
+322	ubah susunan kalimat dan pilihan kata	suka hanya tolong pastikan driver bersih dan harum jangan asal asal menjadi driver jaket bersih bersepatu dll sehingga terlihat gojek support mitra dengan baik
+323	pakai gaya santai/informal pengguna biasa	keren drever nya
+324	ringkas tapi tetap jelas	lebih banyak lagi promonya
+325	tambahkan sedikit detail situasi yang masuk akal	gojek top banget
+326	ubah susunan kalimat dan pilihan kata	selalu mendapatkan pengalaman terbaik dan perjalanan terbaik
+327	pakai gaya santai/informal pengguna biasa	aplikasi yang bantu banget
+328	ringkas tapi tetap jelas	sangat membantu pada kami
+329	tambahkan sedikit detail situasi yang masuk akal	nyaman aman dan responsif
+330	ubah susunan kalimat dan pilihan kata	saya sudah pakai apk gojek lebih dari tahun apk ini bagus driver ramah sopan dan profesional
+331	pakai gaya santai/informal pengguna biasa	oke membantu sekali
+332	ringkas tapi tetap jelas	mudah n menyenangkan
+333	tambahkan sedikit detail situasi yang masuk akal	terima kasih aplikasi gojek telah membantu memudahkan perjalan untuk berobat orang tua kami ke rumah sakit untuk cuci darah semoga akan lebih banyak diskon untuk ke tujuan kerumah sakit untuk sedikit meringankan beban kami terima kasih banyak
+334	ubah susunan kalimat dan pilihan kata	pokoknya asyik lah
+335	pakai gaya santai/informal pengguna biasa	aplikasi yang bermanfaat
+336	ringkas tapi tetap jelas	aplikasi yang bagus
+337	tambahkan sedikit detail situasi yang masuk akal	tidak ada yang sulit
+338	ubah susunan kalimat dan pilihan kata	puas dengan layanan gojek
+339	pakai gaya santai/informal pengguna biasa	rate nya ok gampang digunakan
+340	ringkas tapi tetap jelas	bagus bagus banget
+341	tambahkan sedikit detail situasi yang masuk akal	terimakasih ya mass nya baik sekali
+342	ubah susunan kalimat dan pilihan kata	mudah banget buat yang mageran
+343	pakai gaya santai/informal pengguna biasa	aplikasi yang bagus untuk orang yang harus bepergian jauh
+344	ringkas tapi tetap jelas	semangat ya pak
+345	tambahkan sedikit detail situasi yang masuk akal	membantu saya pergi walaupun jarak jauh
+346	ubah susunan kalimat dan pilihan kata	pengemudinya biasanya ramah
+347	pakai gaya santai/informal pengguna biasa	membantu dimanapun lokasinya
+348	ringkas tapi tetap jelas	banyak driver yang sangat ramah saya suka
+349	tambahkan sedikit detail situasi yang masuk akal	sangat oke baik diperjalanan sangat membantu disaat diperlukan
+350	ubah susunan kalimat dan pilihan kata	aku mau pakai gojek saja buat kemana murah meriah apa lagi kalo yang bawa aman nyaman
+351	pakai gaya santai/informal pengguna biasa	ih loooveeee gojeekkk soo muchh pria dan wanita green flag yang mengantar aku kemana pun iii loveee uuu soo much gojeekkk
+352	ringkas tapi tetap jelas	sangat membantu untuk segala situasi
+353	tambahkan sedikit detail situasi yang masuk akal	banyak penawaran yang melimpah
+354	ubah susunan kalimat dan pilihan kata	alhamdulillah panggil driver gojek cepat sampai tidak menunggu sampai berlama lama
+355	pakai gaya santai/informal pengguna biasa	bagus untuk bepergian
+356	ringkas tapi tetap jelas	sudah pernah pakai apa gojek dari sbnrnya cuman hp sempat hilang dan lupa akun sekarang pakai akun baru gojek benar bisa di andalkan untuk penjemputan juga selalu tepat waktu selama saya pakai gojek
+357	tambahkan sedikit detail situasi yang masuk akal	aplikasi gojek aman dan terpercaya setiap orang yang di layani oleh driver ramah dan sopan cukup sekian dan terima kasih atas pelayanan yang kalian sediakan dengan baik
+358	ubah susunan kalimat dan pilihan kata	perjalanan nyaman mantap
+359	pakai gaya santai/informal pengguna biasa	selama ini lancar saja datang nya juga tepat waktu
+360	ringkas tapi tetap jelas	mitra joss jiss
+361	tambahkan sedikit detail situasi yang masuk akal	alhamdulillah sudah bisa
+362	ubah susunan kalimat dan pilihan kata	brapoh brapoh brapoh
+363	pakai gaya santai/informal pengguna biasa	terimakasih driver gojek dan layanan gojek sudah membantu saat malas keluar untuk makan
+364	ringkas tapi tetap jelas	sangat membantu transportadinya
+365	tambahkan sedikit detail situasi yang masuk akal	sangat baguus aplikasi ini membantu kami dalam segalanya makan transportasi belanja online
+366	ubah susunan kalimat dan pilihan kata	gojek murah dan hemat saat mau berpergian
+367	pakai gaya santai/informal pengguna biasa	mantap respon cepat berkat gojek bepergian jadi mudah
+368	ringkas tapi tetap jelas	cepat sampai dan selamat sampai tujuan
+369	tambahkan sedikit detail situasi yang masuk akal	aplikasinya mendukung indonesia
+370	ubah susunan kalimat dan pilihan kata	sering merasa tertolong dengan adanya gojek
+371	pakai gaya santai/informal pengguna biasa	mantap pokoknya gojek maju jaya terus ya
+372	ringkas tapi tetap jelas	aplikasinya tidak ngelag
+373	tambahkan sedikit detail situasi yang masuk akal	cepat dan nyaman diperjalanan
+374	ubah susunan kalimat dan pilihan kata	ekonomis dan sangat membantu masyarakat
+375	pakai gaya santai/informal pengguna biasa	banyak hal jadi lebih mudah setelah ada gojek mau pergi kemanapun dan pesan apapun bisa dari rumah dan jadi lebih praktis love buat gojek semoga sukses selalu
+376	ringkas tapi tetap jelas	bagus dan cepat pelayanannya
+377	tambahkan sedikit detail situasi yang masuk akal	aplikasi paling useful di era sekarang promo diskonnya banyakk
+378	ubah susunan kalimat dan pilihan kata	kembangkan lagi semangat gojek indonesia
+379	pakai gaya santai/informal pengguna biasa	sering ada diskon
+380	ringkas tapi tetap jelas	selalu dikasih kemudahan pakai gojek the best lah pokoknya gojek
+381	tambahkan sedikit detail situasi yang masuk akal	pelayanannya bagus tepat waktu
+382	ubah susunan kalimat dan pilihan kata	banyak promo yang menarik
+383	pakai gaya santai/informal pengguna biasa	sangat bagus dan membantu transportasi kami
+384	ringkas tapi tetap jelas	saya pernah membayar kali dan dikembalikan terima kasih banget gojek amanah
+385	tambahkan sedikit detail situasi yang masuk akal	semua transaksi mudah
+386	ubah susunan kalimat dan pilihan kata	kapan fitur gopay coin bisa dconvert jadi uang saldo gopay ya masih menunggu untuk fitur itu di realisasi sebagai anak rantau itu sangat mmbntu sekali kalo lagi keadaan mndesak sejauh ini enggak ada kendala tentang appnya tapi plis membikin satu fitur itu pliss di masa depan ya
+387	pakai gaya santai/informal pengguna biasa	mempermudah dalam menjalani hidup ini
+388	ringkas tapi tetap jelas	pokonya lebih nyaman sama gojek
+389	tambahkan sedikit detail situasi yang masuk akal	pelayanan dan respon nya cepat
+390	ubah susunan kalimat dan pilihan kata	suka banget sama gojeek enggak
+391	pakai gaya santai/informal pengguna biasa	sip pokokna mah ok
+392	ringkas tapi tetap jelas	mudah di pahami
+393	tambahkan sedikit detail situasi yang masuk akal	pelayanan ramah cepat baik juga aman untuk aplikasi tidak ada masalah sih buat bayar atau transaksi lain juga aman dan cepat
+394	ubah susunan kalimat dan pilihan kata	cepat tepat dalam merespon konsumen
+395	pakai gaya santai/informal pengguna biasa	seru naik ini walaupun kadang drivernya kebanyakan lama waktu penjemputan tapi sikap para driver nya sopan dan rapi
+396	ringkas tapi tetap jelas	bagus dan nyaman
+397	tambahkan sedikit detail situasi yang masuk akal	nyaman dan menyenangkan
+398	ubah susunan kalimat dan pilihan kata	membantu banget pknya
+399	pakai gaya santai/informal pengguna biasa	bagus ada fitur go transit juga
+400	ringkas tapi tetap jelas	sangat bagus dan ramah lingkungan mantap
+401	tambahkan sedikit detail situasi yang masuk akal	keren lah perbanyak diskon yapss
+402	ubah susunan kalimat dan pilihan kata	nyaman banget pakai gojek
+403	pakai gaya santai/informal pengguna biasa	ganti akun bikin akun mau beli apa juga ok gampang tidak ribet pokok nya joss pisa driver nya ada di mana mau hujan mau banjir di usahakan ada terus buat layanin customer nya
+404	ringkas tapi tetap jelas	oke driver gc safety
+405	tambahkan sedikit detail situasi yang masuk akal	sehat selalu untuk teman gojek semua
+406	ubah susunan kalimat dan pilihan kata	very good service
+407	pakai gaya santai/informal pengguna biasa	sudah lama pakai aplikasi ini secara umum tidak mengecewakan
+408	ringkas tapi tetap jelas	memuaskan mohon diperbanyak promonya untuk yang menggunakan pembayaran cash
+409	tambahkan sedikit detail situasi yang masuk akal	aplikasi ini membuat saya tidak lapar
+410	ubah susunan kalimat dan pilihan kata	perjalanan cepak dan aman terima kasih
+411	pakai gaya santai/informal pengguna biasa	baik dalam pelayanan dan tidak tunggu lama langsung ger cep oke pokonya siiiiip
+412	ringkas tapi tetap jelas	memudahkan transportasi kemana pun pergi
+413	tambahkan sedikit detail situasi yang masuk akal	mantap jos jis
+414	ubah susunan kalimat dan pilihan kata	ya aku jadi nya kalau mau beli apa apa tinggal mesen saja di gojek tidak perlu nge repotin orang tua lagi
+415	pakai gaya santai/informal pengguna biasa	an app that really helps me when i want tapi travel offering fantastic discounts
+416	ringkas tapi tetap jelas	pokoknya oke lah
+417	tambahkan sedikit detail situasi yang masuk akal	map bagus dan akurat mantap
+418	ubah susunan kalimat dan pilihan kata	sangat mudah bertransaksi gampang di lacak untuk interaksi
+419	pakai gaya santai/informal pengguna biasa	nyqman dan aman
+420	ringkas tapi tetap jelas	alhamdulillah senang banget bisa pesan makanan di gofood
+421	tambahkan sedikit detail situasi yang masuk akal	aplikasi yang cukup baik dan membantu urusan pengiriman dokumen saya
+422	ubah susunan kalimat dan pilihan kata	pelayanan memuaskan terima kasih
+423	pakai gaya santai/informal pengguna biasa	bagus saya puas
+424	ringkas tapi tetap jelas	kalau malas ke luar tinggal pesan saja
+425	tambahkan sedikit detail situasi yang masuk akal	ok banget deh pokoke
+426	ubah susunan kalimat dan pilihan kata	sangat terbantu sekali dengan adanya gojek ini manfaatnya luar biasa bagi saya
+427	pakai gaya santai/informal pengguna biasa	cepat gampang opersiaonal
+428	ringkas tapi tetap jelas	bagus dan membantu saya ketika lagi mles keluar rumah
+429	tambahkan sedikit detail situasi yang masuk akal	sopan dan ramah cepat dan tepat waktu
+430	ubah susunan kalimat dan pilihan kata	selama kuliah saya sangat terbantu
+431	pakai gaya santai/informal pengguna biasa	mantul langganan sejak go go gojek goo
+432	ringkas tapi tetap jelas	dari dulu sampai sekarang tidak ragu pakai gojek profesional
+433	tambahkan sedikit detail situasi yang masuk akal	selamat berkendara terima kasih
+434	ubah susunan kalimat dan pilihan kata	sangat di butuhkan ketika pengin jajan atau makanan yang sangat enak
+435	pakai gaya santai/informal pengguna biasa	selalu ada jalan bersama gojek
+436	ringkas tapi tetap jelas	aplikasi nya oke juga
+437	tambahkan sedikit detail situasi yang masuk akal	gojek is the best kalo tidak ada gojek tidak bisa pergi
+438	ubah susunan kalimat dan pilihan kata	drivernya tau jalan padahal saya belum pernah ke alamat tempat tujuan itu
+439	pakai gaya santai/informal pengguna biasa	tulang punggung keluargaku
+440	ringkas tapi tetap jelas	gojek ini sangat bagus sekali
+441	tambahkan sedikit detail situasi yang masuk akal	suka buat pesan mam
+442	ubah susunan kalimat dan pilihan kata	app yang bagus banget
+443	pakai gaya santai/informal pengguna biasa	sudah bagus banget sih jujur aku anak sama yang belum dibolehin naik motor sendiri jadi kebantu banget terima kasih gojek
+444	ringkas tapi tetap jelas	sangat membantu dalam sehari hari
+445	tambahkan sedikit detail situasi yang masuk akal	driver baik tidak mngecewakn ramah
+446	ubah susunan kalimat dan pilihan kata	sangat peka dan melayani dengan sepenuh hati
+447	pakai gaya santai/informal pengguna biasa	memudahkan untuk segala macam transportasi dari gojek gocar gosend sangat terbantu
+448	ringkas tapi tetap jelas	terimakasih banyak gojek
+449	tambahkan sedikit detail situasi yang masuk akal	sejauh ini baik baik saja aplikasinya dan penggunaan nya
+450	ubah susunan kalimat dan pilihan kata	pengalaman pertama naik gojeg motor enak juga nyaman ramah juga driver nya terima kasih gojeg
+451	pakai gaya santai/informal pengguna biasa	alhamdulillah semenjak ada aplikasi gojek segala kbutuhan ku dalam prjlanan jadi lebih mudah dan selalu aman trimakasih gojek di setiap driver yang ku terima selalu baik
+452	ringkas tapi tetap jelas	apk ini sangat bagus banget dan kalo lagi urgent pas banget deh pokoknya
+453	tambahkan sedikit detail situasi yang masuk akal	aplikasi layanan pengantaran yang sangat bagus dan juga harganya yang terjangkau juga cepat penjemputan maupun mengantarkan aplikasi ok tanpa iklan tidak ribet
+454	ubah susunan kalimat dan pilihan kata	alhamdulillah tiap hari pakai gojek biar anak lebih berani ke sekolah kalo pas tidak ada yang anter dapat driver juga baik kadang kalo sudah sampai di ftoin anak saya kadang ada yang tidak mau di byar jum at berkah sehat selalu para driver amin
+455	pakai gaya santai/informal pengguna biasa	cepat driver ramah
+456	ringkas tapi tetap jelas	akurat dan cepat
+457	tambahkan sedikit detail situasi yang masuk akal	bagus aplikasi nya cepat dan driver nya cepat dtng tampilan nama aplikasi bagus dan rapi
+458	ubah susunan kalimat dan pilihan kata	banyak promo menarik nya
+459	pakai gaya santai/informal pengguna biasa	kemudahan untuk berpergian
+460	ringkas tapi tetap jelas	saya baru menyadari betapa mudahnya pakai gojek dulu saya panas an beli ini itu sekarang stlah saya pikir dan mencoba nyaman pakai gojek
+461	tambahkan sedikit detail situasi yang masuk akal	pelayanan cepat pengawasan on time
+462	ubah susunan kalimat dan pilihan kata	aplikasi anak bangsa yang keren
+463	pakai gaya santai/informal pengguna biasa	bagus dan pelayanan cepat mantap
+464	ringkas tapi tetap jelas	membantu banget sumpa
+465	tambahkan sedikit detail situasi yang masuk akal	penjenputan cepat pelayanan ok
+466	ubah susunan kalimat dan pilihan kata	thank you jek jadi bisa makan
+467	pakai gaya santai/informal pengguna biasa	paling bisa di andaikan ketika kita lapar dan berpergian
+468	ringkas tapi tetap jelas	bagus cuman kadang ada driver yang menyebalkan songong plengeran harus di perhatiin kalo ada driver yang kayak begitu biar langsung di pecat saja okeem cuman selebihnya okee lah
+469	tambahkan sedikit detail situasi yang masuk akal	sangat membantu dan mudah
+470	ubah susunan kalimat dan pilihan kata	sebenarnya gojek bagus sih harga nya murah murah tapi driver nya ada yang kasar dan jujur itu bikin tidak nyaman sampai ngata mengatai saya padahal saya ada alasan tertentu tolong untuk lebih di perhatikan lagi driver nya min tapi overall sudah bagus kok gojek cuman mungkin hari itu saya lagi apes saja
+471	pakai gaya santai/informal pengguna biasa	fiturnya sudah bagus sekali saya dukung apk karya anak bangsa
+472	ringkas tapi tetap jelas	bagus banget pelayanannya
+473	tambahkan sedikit detail situasi yang masuk akal	saya sangat terbantu dengan adanya aplikasi gojek ini
+474	ubah susunan kalimat dan pilihan kata	sangat membantu bagi saya yang tidak bisa naik motor
+475	pakai gaya santai/informal pengguna biasa	cukup bagus mntap
+476	ringkas tapi tetap jelas	mending sih dari pada grab
+477	tambahkan sedikit detail situasi yang masuk akal	oke oke saja untuk aplikasi nya
+478	ubah susunan kalimat dan pilihan kata	harga murah sangat membantu perjalanan saya dan banyak diskon yang membuat saya semakin suka
+479	pakai gaya santai/informal pengguna biasa	sangat membantu terima kasih ya
+480	ringkas tapi tetap jelas	mantaf azip yahud weded well pokonamaj
+481	tambahkan sedikit detail situasi yang masuk akal	terima kasih sudah ramah
+482	ubah susunan kalimat dan pilihan kata	apk nya bagus terimakasih
+483	pakai gaya santai/informal pengguna biasa	go jek ok banget
+484	ringkas tapi tetap jelas	aku cinta gojek
+485	tambahkan sedikit detail situasi yang masuk akal	enak untuk menjelajahi semua tempat
+486	ubah susunan kalimat dan pilihan kata	aplikasi yang sangat membantu dan memudahkan masyarakat dalam bidang transportasi keungan dan membantu membuka lapangan tenaga kerja
+487	pakai gaya santai/informal pengguna biasa	gojek selalu dhati aman dan terpercaya terima kasih gojek
+488	ringkas tapi tetap jelas	aplikasinya mudah dioperasikan
+489	tambahkan sedikit detail situasi yang masuk akal	senang pakai banget
+490	ubah susunan kalimat dan pilihan kata	kemudahan dalam perjlanan mencapai tujuan
+491	pakai gaya santai/informal pengguna biasa	senang pakai gojek tks
+492	ringkas tapi tetap jelas	gojek is a comprehensive super app that offers reliable transportation food delivery digital payment and various on demand services its intuitive interface fast performance and dependable service memakai everyday activities more convenient and efficient
+493	tambahkan sedikit detail situasi yang masuk akal	pelayanan nya cepat
+494	ubah susunan kalimat dan pilihan kata	sangat membantu dan bagus
+495	pakai gaya santai/informal pengguna biasa	good transpot aplication
+496	ringkas tapi tetap jelas	cepat tepat dan aman terimah kasih
+497	tambahkan sedikit detail situasi yang masuk akal	aplikasi yang bagus sangat bermanfaat
+498	ubah susunan kalimat dan pilihan kata	bagus cepat sesuai dan amanah
+499	pakai gaya santai/informal pengguna biasa	sejauh ini ok

@@ -1,0 +1,500 @@
+0	driver langsung sampai tanpa harus nunggu lama
+1	pelayanannya okee banget deh suka sama yang ini
+2	luar biasa bermanfaat dan bisa diandalkan kapan saja pengemudinya juga ramah
+3	pas hidup di jakarta yang macet dan padat gojek jadi solusi terbaik
+4	aplikasi bagus banget dan membantu makasih ya
+5	bagus banget dan baik deh
+6	kemana pun melangkah jadi gampang karena ada transportasi gojek jaga terus kualitasnya dan kasih promo yang lebih seru lagi makasih gojek
+7	puas banget sampai tujuan dengan selamat makasih
+8	cepat dan tepat mantap
+9	makasih banget buat para driver gojek yang sudah berjuang antar kami
+10	suka banget deh sama gojekk
+11	semua layanan bisa dibayar pakai uang jadi praktis
+12	harganya oke dan tidak bikin kantong jebol
+13	puas banget sama pelayanannya dan driver cepat datang
+14	bagus banget dan sangat menolong
+15	lagi buru buru ngejar waktu eh ditolong bapak driver pokoknya juara makasih ya pak
+16	layanannya cepat dan bikin aman
+17	cinta banget sama produk dalam negeri
+18	keren dan sangat menolong
+19	bisa dipercaya dan sangat menolong
+20	benar benar menolong di saat lagi butuh
+21	lumayan menolong buat pesan makanan dan antar saya kalau lagi tidak ada kendaraan
+22	hemat cepat dan aman
+23	berguna banget buat saya kapan saja
+24	semangat terus ya
+25	menolong banget buat anak sekolah
+26	bantu banget biar kemana mana makin cepat dan nyaman
+27	driver mau bertanggung jawab kalau ada yang keliru
+28	siapa pun pasti tahu gojek yang paling oke
+29	okeh banget menolong
+30	bepergian jadi aman dan nyaman
+31	aplikasi ini bantu banget semoga bang gojek sehat dan rezekinya lancar tarik maang
+32	enak dan nyaman banget
+33	aplikasinya bagus dipakai tiap hari
+34	bagus dan menolong banget apalagi buat yang mobilitasnya tinggi pakai transportasi ini
+35	aplikasinya bagus banget deh
+36	akurat cepat hemat aman dan nyaman
+37	gampang cari transportasi yang aman nyaman dan hemat
+38	senang banget dan puas
+39	pelayanannya oke banget
+40	gojek mantap drivernya ramah dan cepat
+41	keren gampang hemat pelayanannya okee
+42	pesanan diantar cepat dan sesuai yang dipesan
+43	aplikasinya mantap dan bagus
+44	mantap diskonnya banyak
+45	sudah bertahun tahun pakai gojek sampai sekarang membantu banget dan driver ramah serta cepat antar
+46	selalu siap sedia setiap saat
+47	cepat tepat dan irit
+48	membantu banget di tiap perjalanan
+49	aplikasinya bagus banget
+50	pelayanannya bagus dan jelas semoga ditingkatkan biar makin baik
+51	harganya bersahabat buat kantong
+52	drivernya sabar banget
+53	bagus dan menolong banyak hal
+54	menolong banget buat kegiatan sehari hari
+55	jadinya lebih cepat gampang dan hemat biaya
+56	bagus banget cuma voucher kadang belum bisa dipakai hehe
+57	pelayanan profesional dan sangat baik
+58	semoga gojek terus kasih yang terbaik untuk pelanggan setianya
+59	alhamdulillah pelayanannya baik dan dapat promo ongkir
+60	lebih murah dibanding aplikasi ojol lain dan sepadan
+61	bantu banget memenuhi kebutuhan kami
+62	memuaskan banget buat pergi kemana saja dan simpel dipakai layanannya cepat dan baik jadi tidak repot karena ada aplikasi ini
+63	ada gojek bantu banget buat kebutuhan makan minum pas lagi malas keluar rumah
+64	tidak pernah ada masalah sama sekali
+65	pelayanannya baik banget
+66	benar benar menolong sekali
+67	simpel gampang cepat dan keren
+68	oke sip mantap pokoknya
+69	oke bagus sampai sekarang
+70	bapaknya ramah dan baik hati
+71	pesanan cepat dan bisa diandalkan
+72	cepat tepat dan murah
+73	makasih ya sudah antar saya
+74	alhamdulillah semoga gojek makin berkembang ke arah yang lebih baik matur nuwun
+75	alhamdulillah puas dengan pelayanannya dan sangat menolong
+76	sopirnya baik sopan dan suka bercanda kerja bagus
+77	sejauh ini pakai gojek mantap terus
+78	cocok buat yang malas masak di kos atau rumah karena bisa beli makanan cepat dengan harga terjangkau
+79	sikapnya bagus dan ramah
+80	gampang enak dan cepat
+81	makasih banyak buat pelayanannya
+82	pelayanan bagus dan lebih hemat mantap
+83	bantu banget selama perjalanan
+84	oke banget dan menolong
+85	gampang dan tidak ribet
+86	pelayanannya mantap drivernya cepat dan ramah
+87	pas banget buat anak remaja seperti saya
+88	makasih ya gojek
+89	aplikasi bagus tolong terus ditingkatkan
+90	gojek memang tidak ada tandingannya mantap
+91	jadi gampang dan lancar
+92	sopirnya ramah banget dan bawa motor tidak ngebut makasih gojek
+93	cocok banget buat yang mager keluar rumah tinggal pesan makanan langsung datang
+94	sejauh ini driver yang saya dapat kebanyakan baik dan ramah
+95	suka karena diskonnya banyak
+96	pelayanannya bagus banget dan cepat
+97	alhamdulillah pakai gopay later jadi lebih hemat makasih gojek
+98	tidak tahu kenapa tapi suka banget
+99	cepat dan nyaman banget
+100	aplikasinya membantu banget cuma semoga telepon dan chat dari driver diperbaiki karena notifnya kadang tidak muncul kalau aplikasi ditutup
+101	lewat aplikasi gojek ini saya jadi gampang pakai gojek motor gocar gosend dan gomart
+102	aplikasi cocok buat saya yang malas keluar hehe
+103	melayani sepenuh hati banget
+104	sekarang mau pergi tanpa ada yang jemput tinggal pakai gojek harganya terjangkau kalau tidak sempat masak tinggal gofood
+105	driver kerja bagus
+106	perjalanan jadi nyaman
+107	gosend nya bisa dipercaya banget makasih pelayanannya juga ramah dan cepat
+108	makasih ya mas
+109	bantu banget untuk mobilitas harian
+110	sejauh ini bagus dan lancar
+111	enak banget bisa beli makanan lewat sini
+112	suka banget sama yang ini
+113	hampir tiap hari kirim barang pakai gojek walau kadang driver ada yang cancel tapi tetap setia pakai gojek
+114	bagus cepat dan hemat
+115	terus majukan aplikasi karya anak bangsa kita
+116	pelayanannya ramah semoga sehat selalu buat orang orang baik ini
+117	titik jemputnya tepat
+118	gojek memang yang terbaik
+119	transaksi gampang banget apalagi buat pesan makanan dan cari driver
+120	menolong banget buat saya yang sering merantau ke luar kota
+121	aplikasi ini cukup menolong
+122	praktis tanpa ribet
+123	kaget ternyata tiap hari bisa semurah ini
+124	nunggunya sebentar dan pengemudi rapi bersih ramah motornya juga terawat
+125	semoga selalu bermanfaat ya
+126	bagus dan bermanfaat banget semoga gojek makin sukses dan maju
+127	mantap banget pokoknya
+128	aplikasinya menolong banget
+129	mantap gojek rezeki yang datang jangan ditolak karena kamu memang membutuhkannya
+130	maaf ya gojek tadi aku kebanyakan marah pas kasih rating padahal kamu selalu kasih promo tetap setia pakai kamu bertahun tahun
+131	cari driver di gojek cepat tidak pakai lama
+132	memuaskan banget buat kebutuhan tiap hari
+133	layanan transportasi yang praktis dan efisien
+134	nyaman dan aman
+135	aplikasinya sat set tidak pakai lama
+136	bepergian jadi gampang banget
+137	lumayan baik dan bagus
+138	gampang buat pergi atau beli apa saja
+139	layanan digital yang bagus banget dan bikin hidup lebih mudah
+140	aplikasinya bagus banget
+141	semoga terus kasih layanan terbaik buat pelanggan ya
+142	selalu bisa diandalkan buat kirim dokumen penting makasih
+143	driver nya ramah banget
+144	seiring perkembangan teknologi aplikasi gojek sangat pas dan sudah melayani kebutuhan pelanggan
+145	pertama kali pakai langsung dapat sopir yang jujur makasih ya
+146	laporan ditanggapi dan diselesaikan dengan cepat serta penuh tanggung jawab
+147	makasih ya pak sudah antar dengan baik maaf tadi tipnya cuma sedikit semoga rezekinya lancar tetap jadi mitra gojek terbaik
+148	gojek ini menolong banget
+149	suka banget ada game coin sekarang karena bisa ditukar dan koinnya lumayan besar semoga makin bagus
+150	makasih sudah banyak bantu dan bikin hidup mudah
+151	mantap sat set banget
+152	gojek dan tokopedia sudah terhubung jadi mau pergi tinggal gocar lapar tinggal gofood belanja buka tokopedia bayar pakai gopay kirim lewat gosend bikin betah dan malas pindah aplikasi lain makasih gojek dan tokopedia
+153	gampang hemat simpel dan menolong banget
+154	makasih gojek bantu banget sukses terus
+155	efektif dan efisien tidak repot cari parkir
+156	makasih untuk perjalanan yang nyaman
+157	abang abang gojek rata rata ramah baik hati dan rendah hati
+158	aplikasi juara bantu banget kalau butuh antar jemput dan cari makan jadi lebih gampang mantap sukses terus gojek
+159	praktis gampang dan layanannya bagus
+160	jasanya paling besar buat saya
+161	perjalanan terasa aman
+162	semoga makin dipercaya
+163	bantu banget buat perempuan apalagi ibu yang punya bayi
+164	sudah bagus itu saja
+165	terbantu banget buat banyak kegiatan
+166	pengiriman cepat dan tepat waktu diskonnya banyak sukses terus gojek semua menu mudah dicari di aplikasi ini
+167	dari dulu gojek terbaik aplikasi yang selalu di hati sayang banget sama gojek
+168	benar benar menolong kalau tidak sempat makan tinggal pesan lewat hp makanan langsung datang
+169	bagus dan cepat banget
+170	aplikasi ini bantu saya kapan dan di mana saja walau kadang driver diam sepanjang jalan tapi tidak masalah
+171	pelayanan ramah dan kendaraan bersih terawat
+172	pelayanannya bagus dan memuaskan
+173	bagian dalam kendaraan bersih nyaman dan driver tenang
+174	aplikasinya mantap banget pokoknya
+175	bagus banget dan alamatnya akurat
+176	pengemudi ramah dan datang tepat waktu
+177	terbaik semoga promo makin banyak biar saya bingung pilih grab atau gojek
+178	gas gojek oke banget makasih
+179	menolong banget buat yang langganan gojek
+180	menolong banget buat perantau di kota orang makasih
+181	bagus sebagai pengguna setia semoga ke depan makin mempermudah pengguna setianya
+182	enak dan tidak ribet
+183	layanannya cepat dan gampang
+184	ada kendala pesanan tapi driver sudah selesaikan lalu saya komplain dan saldo kembali makasih gojek
+185	pelayanannya bagus dan tepat waktu
+186	gojek bisa menyelesaikan masalah dengan baik
+187	bermanfaat banget buat kami dan masyarakat umum
+188	aplikasinya bagus fiturnya keren semoga gojek sukses terus semangat para pejuang gojek
+189	oke top markotop lanjutkan
+190	menemani banget saat kami jaga malam
+191	simpel dan tidak ribet
+192	pelayanannya mantap banget
+193	so far membantu banget
+194	membantu banget saat dibutuhkan makasih gojek semoga pelayanan makin ditingkatkan terutama kendaraan terawat helm bersih dan aman serta driver ramah sopan dan baik
+195	enak dipakai dan tidak ribet semoga perusahaan perhatikan kesejahteraan driver karena berpengaruh ke kepercayaan dan pelayanan sukses terus gojek
+196	makasih gojek untuk pelayanannya yang baik
+197	sayang banget sama gojek
+198	pesanan sampai tepat waktu dan drivernya mantap
+199	sangat menolong sekali
+200	kurirnya sopan sopan makasih banyak
+201	buat kenyamanan dan keamanan pilih gojek tidak bikin kecewa kalau tidak percaya coba saja layanan publik ini saya suka banget banyak kemudahannya
+202	senang ketemu driver anak muda yang semangat cari nafkah dan tidak mager
+203	alhamdulillah aman dan pelayanannya baik
+204	aplikasinya bagus banget
+205	pengiriman cepat driver ramah atributnya lengkap aman makasih
+206	belanja lewat gojek memuaskan banget
+207	paketnya sampai cepat dan lancar
+208	semuanya jadi lebih gampang
+209	mantap banget menolong pokoknya
+210	gocar tidak pernah bikin kecewa sopir yang saya dapat ramah
+211	semua layanan bagus mulai driver belanja makan minum sampai belanja supermarket di kota juga memuaskan semoga inovasinya terus ditingkatkan
+212	keren datangnya cepat orangnya ramah dan baik ayo pakai gojek
+213	berguna banget dan bantu aktivitas saya
+214	keren lebih murah drivernya wangi dan atributnya lengkap
+215	belanja jadi lebih gampang tidak perlu keluar lagi pokoknya juara
+216	cocok banget buat transportasi simpel dan cepat
+217	aplikasinya gampang dipakai
+218	makasih ya bantu banget
+219	semua hal jadi gampang
+220	aplikasi gojek sudah bagus tampilannya juga tidak membosankan keren saya kasih bintang
+221	praktis dan serbaguna buat keperluan tiap hari
+222	driver sopan dan bagus
+223	mantap dan menolong banget
+224	semua pelayanannya enak banget mantap
+225	aplikasi paling mantap
+226	menolong banget cuma kalau mau gocar kadang agak susah dan beberapa kali dibatalkan
+227	layanannya cepat dan tepat waktu
+228	terbantu banget untuk berbagai keperluan
+229	kualitas antar makanannya bagus
+230	nunggunya tidak lama guys pokoknya keren
+231	transportasi umum yang cepat nyaman dan aman semoga gojek makin banyak di daerah penjaringan pluit
+232	aplikasi yang bagus banget
+233	semoga yang terbaik buat semuanya
+234	membantu banget di setiap aktivitas
+235	top banget deh gojek
+236	pelayanannya cepat dan mantap
+237	menurut aku aplikasinya sudah bagus banget semoga ada pembayaran gabungan saldo gopay dan cash biar makin enak
+238	semoga makin baik dan promonya makin banyak
+239	sayang banget sama gojek
+240	menolong banget dan bisa diandalkan
+241	pelayanannya cepat dan harganya terjangkau bantu banget
+242	selama perjalanan ini alhamdulillah sangat bermanfaat
+243	nyaman dan ramah
+244	keren dan mantap banget
+245	so far sangat membantu
+246	bantu banget kalau lagi perlu transportasi
+247	baru pertama kali pakai aplikasi ini alhamdulillah drivernya baik menjemput sesuai titik sopan motor terawat dan penampilan menarik makasih buat driver dan pelayanannya semoga usaha para driver lancar dan selamat mencari nafkah buat keluarga
+248	top markotop semoga gojek bisa makin murah lagi
+249	bagus aja sih
+250	cepat kalau lagi dibutuhkan
+251	semuanya baik baik saja
+252	gojek menolong banget buat perjalanan kami
+253	menolong banget kalau lagi belanja makanan
+254	walau kadang ada driver yang kurang menyenangkan tapi so far tetap bagus
+255	aplikasi super lengkap dan promonya banyak
+256	oke menolong banget pesan gofood cepat dapat driver
+257	gampang cari makan saat malam atau jam jam kita butuh
+258	layanan dan informasinya oke tidak lambat tarifnya akurat sesuai di aplikasi
+259	ramah dan bagus bisa antar kemana saja dengan harga terjangkau
+260	senang pakai gojek karena cepat transportasi andalan wajib dipakai
+261	gojek pilihan nomor satu saya tidak akan tergantikan yang lain
+262	suka banget bagus banget
+263	setia pakai gojek sejak awal diluncurkan
+264	gojek memang bagus banget
+265	cepat dan tepat kerja bagus
+266	alhamdulillah pesanan sesuai
+267	cepat drivernya ramah dan nyaman
+268	gampang praktis dan mudah dipantau
+269	selalu hadir saat dibutuhkan
+270	tidak bisa berkata kata intinya aplikasi bagus bahkan saat kuota habis masih bisa pesan gojek buat pulang sekolah
+271	makasih gojek indonesia
+272	dulu sering kecewa tapi sekarang banyak perubahan dan makin menyenangkan pakai gojek
+273	kerja bagus gojek
+274	ayo dukung aplikasi lokal
+275	driver ramah dan datang tepat waktu makasih gojek
+276	aplikasi oke driver remaja jujur makasih
+277	keren suka banget sama gojekk
+278	cukup puas pakai aplikasi ini dan lebih senang lagi kalau promonya ditambah
+279	cepat sampai dan drivernya bikin nyaman
+280	ayo dukung aplikasi lokal
+281	karena ada aplikasi ini semuanya jadi gampang
+282	makasih sudah melayani dengan sepenuh hati mantap
+283	masih terbantu banget makasih
+284	salut buat driver gojeknya
+285	segalanya jadi gampang
+286	baru sekali coba goride langsung mantap
+287	bagus dan harganya terjangkau buat mahasiswa
+288	oke banget makasih ya
+289	drivernya ramah dan pelayanannya cepat
+290	cepat bersih dan aman makasih pak gojek
+291	okee banget apalagi sering banyak promo
+292	murah banget dan cepat
+293	menurut saya gojek yang terbaik
+294	pesan gofood enak dan praktis
+295	terpercaya dan cepat
+296	sangat membantu kalau lagi malas nyetir sendiri
+297	aplikasi gojek oke banget bantu banget apalagi kalau promonya banyak
+298	suka aplikasi gojek karena cepat saat dibutuhkan dan saya percaya semua mas dan mbak drivernya baik dan bisa dipercaya semoga sukses
+299	cepat banget kerja bagus
+300	aplikasi ini mempermudah aktivitas dan banyak untungnya
+301	paling unggul di antara ojol lainnya
+302	sat set cepat dan komunikatif
+303	mungkin gojek paling murah atau karena saya sering pakai
+304	membantu banget buat mobilitas
+305	luar biasa banget
+306	driver berpengalaman dan cari driver tidak perlu nunggu lama
+307	pakai gojek jadi makin mudah dan aman
+308	murah cepat nyaman dan sampai tujuan dengan selamat
+309	senang banget drivernya ramah banget
+310	gojek cepat tanggap sama pesanan
+311	bermanfaat dan gampang dipakai
+312	makasih sudah tepat waktu dan mau mengantar
+313	gampang buat bepergian
+314	aplikasi bagus dan berguna banget
+315	cocok banget buat saya
+316	mantap bantu banget pas lagi kepepet
+317	semuanya jadi gampang
+318	mantap banget cepat dapat driver kalau lagi buru buru dan promo gofood nya banyak
+319	gampang murah praktis dan mantap
+320	naik gojek oke banget mantap
+321	walau sering error tapi pelayanannya bagus banget dan saya tetap langganan gojek
+322	aplikasi ini nyaman banget kalau lagi genting
+323	mantap bonusnya banyak
+324	bantu banget saat dibutuhkan buat perjalanan jauh atau dekat mantap
+325	gojek bantu banget
+326	pelayanannya luar biasa dan memuaskan pelanggan
+327	mantap bos bikin urusan jemput atau kirim barang jadi gampang
+328	sejauh ini tidak ada masalah dan memuaskan banget
+329	aplikasi dewa tinggal gas
+330	menurut saya bagus dan bisa diakses kami penyandang tunanetra saran sedikit semoga tombol angkat panggilan diperbaiki supaya lebih mudah dipakai dengan pembaca layar
+331	karena ada gojek semuanya jadi gampang
+332	aplikasi ini keren banget pokoknya
+333	murah dan ramah di kantong transportasi rakyat
+334	aplikasi bagus bantu banget
+335	banyak driver yang solid dan ramah
+336	sikap driver ramah dan sopan bikin senang
+337	bisa kemana saja dengan mudah pakai gojek
+338	gojek online memudahkan saya setiap mau bepergian
+339	mantap banget bisa bantu antar barang yang dibutuhkan
+340	aplikasi ini bagus banget dan promonya banyak tiap hari
+341	mantap jaya manjay
+342	so far bagus
+343	semangat buat para pejuang rupiah
+344	aplikasi order paling mantap
+345	driver ramah bersih dan tepat waktu
+346	baik nyaman dan gampang
+347	buat driver gojek tetap jadi orang baik ya makasih
+348	aplikasinya berguna banget
+349	makasih sudah antar jemput saya
+350	serba bisa dan bantu banget buat saya yang sering bepergian dan malas nyetir sendiri
+351	mantap aplikasinya semoga sering diupdate dan koinnya makin banyak
+352	terus tingkatkan promo dan diskon gojek dan gofood makasih
+353	baik banget cepat dan bagus
+354	gojek memang mantap
+355	tiap pesan selalu datang tepat waktu solusi pas pas malas keluar rumah makasih
+356	senang bareng gojek
+357	senang pakai aplikasi gojek karena bantu saya yang lagi mager
+358	makasih aplikasi ini bantu saya banget
+359	baru mulai pakai gojek langsung paham karena gampang dimengerti dan pakai goride selalu dapat driver yang baik dan cepat semoga dipertahankan sampai nanti
+360	sopan banget dan tepat waktu
+361	responnya cepat dan untungnya banyak
+362	gojek tetap yang terbaik
+363	menolong banget dalam segala situasi
+364	sudah lama pakai dan abang abangnya ramah ramah
+365	bantu banget kalau tidak mau keluar jauh cari makan dan minum
+366	gojek keren semua yang dibutuhkan ada semoga makin maju ya gojek
+367	aplikasinya bagus dan bantu banget makasih banyak admin
+368	semoga orderannya banyak dan jemputnya dekat dekat
+369	murah dan cepat datang
+370	enak dan bagus banget
+371	bagus semoga promonya makin banyak
+372	mantap tidak capek keluar walau lagi musim hujan
+373	drivernya ramah banget dan suka menolong
+374	makasih banyak ya
+375	gampang cari makanan kalau tiba tiba lapar tengah malam
+376	lebih hemat dan sopan
+377	aku dukung karya indonesia
+378	okee menolong banget
+379	pengirimannya memuaskan banget
+380	aplikasinya bagus banget
+381	mantap cepat gerak respek
+382	menolong banget buat saya
+383	lengkap pokoknya dan drivernya baik banget juara deh
+384	harganya bagus kak semoga gojek mobil bisa dibuat sedikit lebih murah ya min
+385	promonya mantap banget
+386	semoga mitra gojek dan gocar makin ramah dan tetap rendah hati
+387	puas dengan driver yang ramah dan sopan
+388	menolong banget dan hemat waktu
+389	jadi gampang lewat gojek
+390	aplikasi top lengkap tidak lag jos pokoknya
+391	menolong banget buat transportasi cepat dan tepat sampai tujuan
+392	aplikasinya bagus dan saya terbantu banget buat pulang naik ojek
+393	aplikasinya menolong banget
+394	kirim barang dan pergi ke tujuan jadi lebih gampang dan aman
+395	senang pesan gojek cepat dan sigap
+396	selalu aman dan nyaman
+397	pelayanannya baik saya selalu dapat driver yang enak diajak ngobrol curhat sampai roasting semoga terus dapat driver dan pelayanan seperti ini makasih gojek
+398	pesan makanan jadi lebih gampang
+399	pertama kali pesan gofood ternyata gampang banget
+400	gojek memang yang terbaik
+401	pelayanannya bagus banget makasih
+402	promonya banyak cocok buat anak kos perantau
+403	mantap dijemput dengan cepat
+404	semua layanan ada di satu aplikasi dan bantu aktivitas sehari hari
+405	menolong banget bahkan saat cuaca cerah
+406	cukup terbantu apalagi saya sering gofood
+407	bagus walau kadang pesan gojek malam hari agak susah
+408	cepat kurirnya ramah dan jujur
+409	gampang dioperasikan dan keren
+410	makasih ya gojek
+411	top banget dan keren banget
+412	mau apa atau kemana tidak usah bingung tinggal gojekin
+413	bisa jalan kemana saja dengan mudah
+414	cepat tepat dan aman di jalan
+415	aplikasinya mantap banget
+416	aplikasinya bagus banget tidak ada gangguan sama sekali makasih ya
+417	lebih cepat dan nyaman
+418	paling suka pakai aplikasi buatan lokal
+419	keren banget kamu gojek
+420	gojek memang tak tertandingi cepat dan gampang dipakai pelayanannya juga memuaskan
+421	mantap banget semoga promonya ditambah biar makin betah pakai gojek
+422	aplikasi yang kenyamanannya terjaga
+423	makasih atas penghargaannya gojek indonesia buat rekan mitra perintis yang sudah bergabung sejak awal
+424	semoga pak nadim selalu sehat
+425	sejauh ini aman dan nyaman
+426	drivernya baik baik
+427	layanan ini excellent banget
+428	pelayanan cepat dan berkendara aman
+429	selama ini puas banget
+430	cocok banget buat yang mager
+431	aplikasi yang bantu banget semua bisa dipesan di sini
+432	pagi pagi pesan gojek menyenangkan driver sopan ramah dan rendah hati
+433	bagus dan bantu banget buat yang tidak punya kendaraan apalagi anak yatim piatu seperti saya
+434	terbaik dan gampang dipakai
+435	makasih ya bantu banget
+436	dapat kendaraan dengan cepat
+437	sukses terus aplikasi gojek salam aspal dari mantan driver
+438	drivernya bagus dan ramah makasih ya mas saya kasih bintang
+439	respon cepat dan mudah
+440	banyak pilihan resto dan pengantarannya cepat
+441	pakai gojek pendapatan driver jadi lebih stabil
+442	langganan yang paling gampang
+443	bagus dan menolong
+444	bagus aja sih oke
+445	oke sip mantap banget
+446	cepat simpel dan mantap
+447	gojek memang terbaik
+448	mantap banget pelayanan dari gojek
+449	komunikasi dan pelayanannya bagus banget
+450	servicenya baik walau kadang dapat driver yang kurang ramah
+451	makin asyik saja pakai gojek
+452	driver sopan dan bersih pelayanannya ramah
+453	suka karena promonya banyak
+454	bagus dan gampang juga
+455	makasih banyak semoga sehat selalu
+456	pelayanannya oke dan ramah
+457	aplikasi ini bantu banget dan harganya murah
+458	aplikasi bagus gampang dipakai dan menolong banget buat naik transportasi
+459	gojek ini menolong saya banget
+460	makasih untuk kendaraan saat lagi mendesak
+461	kapan saja di mana saja bisa order buat keluarga yang jauh
+462	aplikasinya bagus banget
+463	menolong banget walau ongkir gofood terasa lumayan
+464	makasih buat developer dan mitra yang bikin sinergi luar biasa ini tetap hidup
+465	baik banget dan bisa dipercaya pertahankan ya mantap
+466	aplikasi ini bikin semua orang terbantu
+467	terpercaya dan bisa diandalkan
+468	menolong banget waktu antar ibu cuci darah
+469	biasa saja tidak ada masalah malah senang banget
+470	pelayanannya ramah dan baik banget
+471	aplikasi ini menolong banyak orang
+472	aplikasi pemesanan terbaik di indonesia makasih gojek hp tidak error seperti aplikasi sebelah
+473	senang bisa pakai aplikasi ini
+474	transportasi jadi gampang praktis dan cepat
+475	pelayanannya bagus dan gampang diakses
+476	makasih sudah antar lewat mitra gojek
+477	oke mantap dan bagus
+478	drivernya ramah ramah
+479	harganya murah dan sepadan drivernya ramah pelayanannya juga oke
+480	mantap tiap hari dapat harga tetap yang memuaskan semoga harganya stabil semangat
+481	menolong kalau lagi hujan dan susah cari driver
+482	gesit ya gojek
+483	menolong banget efektif dan aplikatif
+484	pokoknya mantap pakai aplikasi gojek
+485	tepat waktu dan menyenangkan
+486	alhamdulillah gosend jadi solusi saat tidak sempat antar barang
+487	gampang cari transportasi
+488	orangnya ramah banget
+489	saya doakan gojek terus sukses
+490	tidak lag makasih
+491	pokoknya best drivernya ramah ramah dan baik semua yang saya temui
+492	appnya bagus banget
+493	tepat waktu dan drivernya jujur
+494	bagus dan selalu ada harga promo
+495	menolong banget mantap dan keren
+496	memudahkan banget kalau butuh transportasi saat urgen
+497	aplikasinya bagus saya suka kalau lagi pengin makanan dan malas keluar tinggal pesan gofood pelayanannya bagus dan abang gojeknya ramah top banget
+498	oke juga lah
+499	pelayanan cepat tanpa ribet

@@ -1,0 +1,79 @@
+Mode: augmented | seed: 1 | device: cuda (NVIDIA GeForce GTX 1650 Ti)
+[transformers] You passed `num_labels=2` which is incompatible to the `id2label` map of length `5`.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 21198.42it/s]
+[transformers] [1mBertForSequenceClassification LOAD REPORT[0m from: indobenchmark/indobert-base-p1
+Key               | Status  | 
+------------------+---------+-
+classifier.weight | MISSING | 
+classifier.bias   | MISSING | 
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+  [  2.4%] epoch 1/3 step 100/1386 | loss 0.5250 | berjalan 1m 20d | sisa ~54m 45d
+  [  4.8%] epoch 1/3 step 200/1386 | loss 0.3214 | berjalan 2m 55d | sisa ~57m 53d
+  [  7.2%] epoch 1/3 step 300/1386 | loss 0.2443 | berjalan 4m 26d | sisa ~57m 06d
+  [  9.6%] epoch 1/3 step 400/1386 | loss 0.2012 | berjalan 6m 04d | sisa ~57m 02d
+  [ 12.0%] epoch 1/3 step 500/1386 | loss 0.1770 | berjalan 8m 33d | sisa ~1j 02m 33d
+  [ 14.4%] epoch 1/3 step 600/1386 | loss 0.1593 | berjalan 10m 36d | sisa ~1j 02m 57d
+  [ 16.8%] epoch 1/3 step 700/1386 | loss 0.1470 | berjalan 12m 44d | sisa ~1j 02m 55d
+  [ 19.2%] epoch 1/3 step 800/1386 | loss 0.1387 | berjalan 14m 21d | sisa ~1j 00m 17d
+  [ 21.6%] epoch 1/3 step 900/1386 | loss 0.1284 | berjalan 15m 52d | sisa ~57m 27d
+  [ 24.1%] epoch 1/3 step 1000/1386 | loss 0.1194 | berjalan 17m 42d | sisa ~55m 53d
+  [ 26.5%] epoch 1/3 step 1100/1386 | loss 0.1130 | berjalan 19m 31d | sisa ~54m 16d
+  [ 28.9%] epoch 1/3 step 1200/1386 | loss 0.1076 | berjalan 21m 15d | sisa ~52m 23d
+  [ 31.3%] epoch 1/3 step 1300/1386 | loss 0.1049 | berjalan 22m 51d | sisa ~50m 15d
+  [ 33.3%] epoch 1/3 step 1386/1386 | loss 0.1008 | berjalan 24m 08d | sisa ~48m 16d
+Epoch 1: train loss 0.1008 | val loss 0.0427 | val acc 0.9928 | val F1 0.9923
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  2.20it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  2.20it/s]
+  [ 35.7%] epoch 2/3 step 100/1386 | loss 0.0151 | berjalan 26m 30d | sisa ~47m 39d
+  [ 38.1%] epoch 2/3 step 200/1386 | loss 0.0184 | berjalan 28m 01d | sisa ~45m 27d
+  [ 40.5%] epoch 2/3 step 300/1386 | loss 0.0274 | berjalan 29m 37d | sisa ~43m 25d
+  [ 43.0%] epoch 2/3 step 400/1386 | loss 0.0239 | berjalan 31m 14d | sisa ~41m 29d
+  [ 45.4%] epoch 2/3 step 500/1386 | loss 0.0282 | berjalan 32m 49d | sisa ~39m 32d
+  [ 47.8%] epoch 2/3 step 600/1386 | loss 0.0298 | berjalan 34m 24d | sisa ~37m 38d
+  [ 50.2%] epoch 2/3 step 700/1386 | loss 0.0267 | berjalan 36m 03d | sisa ~35m 48d
+  [ 52.6%] epoch 2/3 step 800/1386 | loss 0.0241 | berjalan 37m 41d | sisa ~34m 00d
+  [ 55.0%] epoch 2/3 step 900/1386 | loss 0.0233 | berjalan 39m 12d | sisa ~32m 06d
+  [ 57.4%] epoch 2/3 step 1000/1386 | loss 0.0273 | berjalan 40m 50d | sisa ~30m 19d
+  [ 59.8%] epoch 2/3 step 1100/1386 | loss 0.0273 | berjalan 42m 29d | sisa ~28m 34d
+  [ 62.2%] epoch 2/3 step 1200/1386 | loss 0.0265 | berjalan 44m 11d | sisa ~26m 51d
+  [ 64.6%] epoch 2/3 step 1300/1386 | loss 0.0250 | berjalan 45m 56d | sisa ~25m 10d
+  [ 66.7%] epoch 2/3 step 1386/1386 | loss 0.0257 | berjalan 47m 22d | sisa ~23m 41d
+Epoch 2: train loss 0.0257 | val loss 0.0451 | val acc 0.9897 | val F1 0.9890
+Early stopping.
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights:   5%|▍         | 10/201 [00:00<00:04, 46.26it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 864.39it/s]
+{
+  "mode": "augmented",
+  "seed": 1,
+  "train_size": 11086,
+  "accuracy": 0.9828881469115192,
+  "macro": {
+    "precision": 0.9818544844967336,
+    "recall": 0.9805254621128657,
+    "f1": 0.9811843573278938
+  },
+  "per_class": {
+    "negatif": {
+      "precision": 0.9852658552210122,
+      "recall": 0.9884318766066839,
+      "f1": 0.986846326596086,
+      "support": 1556
+    },
+    "positif": {
+      "precision": 0.9784431137724551,
+      "recall": 0.9726190476190476,
+      "f1": 0.9755223880597015,
+      "support": 840
+    }
+  },
+  "confusion_matrix [[TN,FP],[FN,TP]]": [
+    [
+      1538,
+      18
+    ],
+    [
+      23,
+      817
+    ]
+  ]
+}
